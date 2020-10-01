@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+
+
+
+
+    
+
+
+
+<channel rdf:about="http://www.rwma.ch/search_rss">
+  <title>WELTI modern art</title>
+  <link>http://www.rwma.ch</link>
+
+  <description>
+    
+            These are the search results for the query, showing results 1 to 5.
+        
+  </description>
+
+  
+
+  
+
+  <image rdf:resource="http://www.rwma.ch/logo.png"/>
+
+  <items>
+    <rdf:Seq>
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/hermann-scherer/portrat-rico-und-lilly-jenny"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/ern-morgenthaler/drei-kinder-in-morcote"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/paul-gavarni/karikatur-les-enfans-terrible-no-15"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/leonor-fini/la-gourmandise"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/alfonso-albacete"/>
+      
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/hermann-scherer/portrat-rico-und-lilly-jenny">
+    <title>Porträt Rico und Lilly Jenny</title>
+    <link>http://www.rwma.ch/kunstwerke/hermann-scherer/portrat-rico-und-lilly-jenny</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Tessin</dc:subject>
+    
+    
+      <dc:subject>Mensch</dc:subject>
+    
+    
+      <dc:subject>Graphik</dc:subject>
+    
+    
+      <dc:subject>Basel</dc:subject>
+    
+    
+      <dc:subject>Kinder</dc:subject>
+    
+    
+      <dc:subject>Figur</dc:subject>
+    
+    
+      <dc:subject>Holzschnitt</dc:subject>
+    
+    
+      <dc:subject>Portrait</dc:subject>
+    
+    
+      <dc:subject>Schweizer Expressionismus</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-10-19T14:25:00Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/ern-morgenthaler/drei-kinder-in-morcote">
+    <title>Drei Kinder in Morcote</title>
+    <link>http://www.rwma.ch/kunstwerke/ern-morgenthaler/drei-kinder-in-morcote</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Figuration</dc:subject>
+    
+    
+      <dc:subject>Tessin</dc:subject>
+    
+    
+      <dc:subject>Zürich</dc:subject>
+    
+    
+      <dc:subject>Kinder</dc:subject>
+    
+    
+      <dc:subject>Gemälde</dc:subject>
+    
+    
+      <dc:subject>Bern</dc:subject>
+    
+    
+      <dc:subject>Landschaft</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-10-19T09:30:00Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/paul-gavarni/karikatur-les-enfans-terrible-no-15">
+    <title>Karikatur - Les enfans terrible - No 15</title>
+    <link>http://www.rwma.ch/kunstwerke/paul-gavarni/karikatur-les-enfans-terrible-no-15</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Frankreich</dc:subject>
+    
+    
+      <dc:subject>Mensch</dc:subject>
+    
+    
+      <dc:subject>Kinder</dc:subject>
+    
+    
+      <dc:subject>Paris</dc:subject>
+    
+    
+      <dc:subject>Internationale Kunst</dc:subject>
+    
+    
+      <dc:subject>Karikatur</dc:subject>
+    
+    
+      <dc:subject>19. Jahrhundert</dc:subject>
+    
+    <dc:date>2010-10-16T14:25:00Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/leonor-fini/la-gourmandise">
+    <title>La Gourmandise</title>
+    <link>http://www.rwma.ch/kunstwerke/leonor-fini/la-gourmandise</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Frankreich</dc:subject>
+    
+    
+      <dc:subject>Paris</dc:subject>
+    
+    
+      <dc:subject>Poesie</dc:subject>
+    
+    
+      <dc:subject>Literatur</dc:subject>
+    
+    
+      <dc:subject>Zeichnung</dc:subject>
+    
+    
+      <dc:subject>Tusche</dc:subject>
+    
+    
+      <dc:subject>Kinder</dc:subject>
+    
+    
+      <dc:subject>Mensch</dc:subject>
+    
+    
+      <dc:subject>Internationale Kunst</dc:subject>
+    
+    <dc:date>2010-10-16T14:04:11Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/alfonso-albacete">
+    <title>Alfonso Albacete</title>
+    <link>http://www.rwma.ch/kunstwerke/alfonso-albacete</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Kind</dc:subject>
+    
+    
+      <dc:subject>Kinder</dc:subject>
+    
+    
+      <dc:subject>Knabe</dc:subject>
+    
+    
+      <dc:subject>Spanien</dc:subject>
+    
+    
+      <dc:subject>Internationale Kunst</dc:subject>
+    
+    
+      <dc:subject>Pastell</dc:subject>
+    
+    <dc:date>2010-09-30T18:20:00Z</dc:date>
+    <dc:type>Künstler</dc:type>
+  </item>
+
+
+
+
+</rdf:RDF>

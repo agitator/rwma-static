@@ -1,0 +1,613 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+
+
+
+
+    
+
+
+
+<channel rdf:about="http://www.rwma.ch/search_rss">
+  <title>WELTI modern art</title>
+  <link>http://www.rwma.ch</link>
+
+  <description>
+    
+            These are the search results for the query, showing results 1 to 15.
+        
+  </description>
+
+  
+
+  
+
+  <image rdf:resource="http://www.rwma.ch/logo.png"/>
+
+  <items>
+    <rdf:Seq>
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/franz-brulhart/portrait-einer-maschine"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/franz-brulhart/studie-nr.-9"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/franz-brulhart/studie-nr.-7"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/franz-brulhart/heureka"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/franz-brulhart/studie-nr.-5"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/franz-brulhart/bloom"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/franz-brulhart/alex"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/franz-brulhart/julia-und-emilie"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/franz-brulhart/zora"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/franz-brulhart/norbert-bisky"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/franz-brulhart"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/rodney-white/69"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/josef-ebnother/aufbruch"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/silvio-blatter/ohne-titel-blaue-varianten"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/silvio-blatter/ohne-titel-weiss-gebrochen-mit-ausspahrung"/>
+      
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/franz-brulhart/portrait-einer-maschine">
+    <title>Portrait einer Maschine</title>
+    <link>http://www.rwma.ch/kunstwerke/franz-brulhart/portrait-einer-maschine</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Zeitgenössische Kunst</dc:subject>
+    
+    
+      <dc:subject>Technik</dc:subject>
+    
+    
+      <dc:subject>Malerei</dc:subject>
+    
+    
+      <dc:subject>Freiburg</dc:subject>
+    
+    
+      <dc:subject>Maschine</dc:subject>
+    
+    
+      <dc:subject>Bern</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-11-11T14:25:00Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/franz-brulhart/studie-nr.-9">
+    <title>Studie Nr. 9</title>
+    <link>http://www.rwma.ch/kunstwerke/franz-brulhart/studie-nr.-9</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Zeitgenössische Kunst</dc:subject>
+    
+    
+      <dc:subject>Technik</dc:subject>
+    
+    
+      <dc:subject>Malerei</dc:subject>
+    
+    
+      <dc:subject>Freiburg</dc:subject>
+    
+    
+      <dc:subject>Maschine</dc:subject>
+    
+    
+      <dc:subject>Bern</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-11-11T14:25:00Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/franz-brulhart/studie-nr.-7">
+    <title>Studie Nr. 7</title>
+    <link>http://www.rwma.ch/kunstwerke/franz-brulhart/studie-nr.-7</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Zeitgenössische Kunst</dc:subject>
+    
+    
+      <dc:subject>Technik</dc:subject>
+    
+    
+      <dc:subject>Malerei</dc:subject>
+    
+    
+      <dc:subject>Freiburg</dc:subject>
+    
+    
+      <dc:subject>Maschine</dc:subject>
+    
+    
+      <dc:subject>Bern</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-11-11T14:20:00Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/franz-brulhart/heureka">
+    <title>Heureka</title>
+    <link>http://www.rwma.ch/kunstwerke/franz-brulhart/heureka</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Zeitgenössische Kunst</dc:subject>
+    
+    
+      <dc:subject>Technik</dc:subject>
+    
+    
+      <dc:subject>Malerei</dc:subject>
+    
+    
+      <dc:subject>Freiburg</dc:subject>
+    
+    
+      <dc:subject>Maschine</dc:subject>
+    
+    
+      <dc:subject>Bern</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-11-08T17:10:00Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/franz-brulhart/studie-nr.-5">
+    <title>Studie Nr. 5</title>
+    <link>http://www.rwma.ch/kunstwerke/franz-brulhart/studie-nr.-5</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Zeitgenössische Kunst</dc:subject>
+    
+    
+      <dc:subject>Technik</dc:subject>
+    
+    
+      <dc:subject>Malerei</dc:subject>
+    
+    
+      <dc:subject>Freiburg</dc:subject>
+    
+    
+      <dc:subject>Maschine</dc:subject>
+    
+    
+      <dc:subject>Bern</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-11-08T17:05:00Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/franz-brulhart/bloom">
+    <title>Michel Roggo</title>
+    <link>http://www.rwma.ch/kunstwerke/franz-brulhart/bloom</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Figuration</dc:subject>
+    
+    
+      <dc:subject>Frau</dc:subject>
+    
+    
+      <dc:subject>Malerei</dc:subject>
+    
+    
+      <dc:subject>Freiburg</dc:subject>
+    
+    
+      <dc:subject>Portrait</dc:subject>
+    
+    
+      <dc:subject>Bern</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-11-08T16:55:00Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/franz-brulhart/alex">
+    <title>Frantiçek</title>
+    <link>http://www.rwma.ch/kunstwerke/franz-brulhart/alex</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Figuration</dc:subject>
+    
+    
+      <dc:subject>Kind</dc:subject>
+    
+    
+      <dc:subject>Mensch</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    
+      <dc:subject>Malerei</dc:subject>
+    
+    
+      <dc:subject>Freiburg</dc:subject>
+    
+    
+      <dc:subject>Portrait</dc:subject>
+    
+    
+      <dc:subject>Bern</dc:subject>
+    
+    
+      <dc:subject>Junge</dc:subject>
+    
+    <dc:date>2010-11-08T16:55:00Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/franz-brulhart/julia-und-emilie">
+    <title>Aruni</title>
+    <link>http://www.rwma.ch/kunstwerke/franz-brulhart/julia-und-emilie</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Figuration</dc:subject>
+    
+    
+      <dc:subject>Kind</dc:subject>
+    
+    
+      <dc:subject>Malerei</dc:subject>
+    
+    
+      <dc:subject>Freiburg</dc:subject>
+    
+    
+      <dc:subject>Portrait</dc:subject>
+    
+    
+      <dc:subject>Bern</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-11-08T16:55:00Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/franz-brulhart/zora">
+    <title>Zora</title>
+    <link>http://www.rwma.ch/kunstwerke/franz-brulhart/zora</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Figuration</dc:subject>
+    
+    
+      <dc:subject>Kind</dc:subject>
+    
+    
+      <dc:subject>Malerei</dc:subject>
+    
+    
+      <dc:subject>Freiburg</dc:subject>
+    
+    
+      <dc:subject>Portrait</dc:subject>
+    
+    
+      <dc:subject>Bern</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-11-08T16:50:00Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/franz-brulhart/norbert-bisky">
+    <title>Norbert Bisky</title>
+    <link>http://www.rwma.ch/kunstwerke/franz-brulhart/norbert-bisky</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Figuration</dc:subject>
+    
+    
+      <dc:subject>Deutschland</dc:subject>
+    
+    
+      <dc:subject>Malerei</dc:subject>
+    
+    
+      <dc:subject>Künstler</dc:subject>
+    
+    
+      <dc:subject>Freiburg</dc:subject>
+    
+    
+      <dc:subject>Portrait</dc:subject>
+    
+    
+      <dc:subject>Bern</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-11-08T16:45:00Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/franz-brulhart">
+    <title>Franz Brülhart</title>
+    <link>http://www.rwma.ch/kunstwerke/franz-brulhart</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Freibourg</dc:subject>
+    
+    
+      <dc:subject>Malerei</dc:subject>
+    
+    
+      <dc:subject>Portrait</dc:subject>
+    
+    
+      <dc:subject>Bern</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-11-08T13:30:00Z</dc:date>
+    <dc:type>Künstler</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/rodney-white/69">
+    <title># 69</title>
+    <link>http://www.rwma.ch/kunstwerke/rodney-white/69</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Allegorie</dc:subject>
+    
+    
+      <dc:subject>Amerika</dc:subject>
+    
+    
+      <dc:subject>USA</dc:subject>
+    
+    
+      <dc:subject>New York</dc:subject>
+    
+    
+      <dc:subject>Malerei</dc:subject>
+    
+    
+      <dc:subject>Politik</dc:subject>
+    
+    
+      <dc:subject>Internationale Kunst</dc:subject>
+    
+    
+      <dc:subject>Kohle</dc:subject>
+    
+    <dc:date>2010-10-20T15:25:59Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/josef-ebnother/aufbruch">
+    <title>Aufbruch</title>
+    <link>http://www.rwma.ch/kunstwerke/josef-ebnother/aufbruch</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>St. Gallen</dc:subject>
+    
+    
+      <dc:subject>Blau</dc:subject>
+    
+    
+      <dc:subject>Religion</dc:subject>
+    
+    
+      <dc:subject>Abstrakte Malerei</dc:subject>
+    
+    
+      <dc:subject>Gemälde</dc:subject>
+    
+    
+      <dc:subject>Malerei</dc:subject>
+    
+    
+      <dc:subject>Ostschweiz</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-10-15T18:35:13Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/silvio-blatter/ohne-titel-blaue-varianten">
+    <title>ohne Titel (blaue Varianten)</title>
+    <link>http://www.rwma.ch/kunstwerke/silvio-blatter/ohne-titel-blaue-varianten</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Aargau</dc:subject>
+    
+    
+      <dc:subject>Zeitgenössische Kunst</dc:subject>
+    
+    
+      <dc:subject>Zürich</dc:subject>
+    
+    
+      <dc:subject>Literat</dc:subject>
+    
+    
+      <dc:subject>Poesie</dc:subject>
+    
+    
+      <dc:subject>Literatur</dc:subject>
+    
+    
+      <dc:subject>Abstrakte Malerei</dc:subject>
+    
+    
+      <dc:subject>Malerei</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-10-15T14:43:20Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/silvio-blatter/ohne-titel-weiss-gebrochen-mit-ausspahrung">
+    <title>ohne Titel (weiss gebrochen mit Aussparung)</title>
+    <link>http://www.rwma.ch/kunstwerke/silvio-blatter/ohne-titel-weiss-gebrochen-mit-ausspahrung</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Aargau</dc:subject>
+    
+    
+      <dc:subject>Zeitgenössische Kunst</dc:subject>
+    
+    
+      <dc:subject>Zürich</dc:subject>
+    
+    
+      <dc:subject>Literat</dc:subject>
+    
+    
+      <dc:subject>Poesie</dc:subject>
+    
+    
+      <dc:subject>Literatur</dc:subject>
+    
+    
+      <dc:subject>Abstrakte Malerei</dc:subject>
+    
+    
+      <dc:subject>Malerei</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-10-15T14:40:00Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+
+
+</rdf:RDF>

@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+
+
+
+
+    
+
+
+
+<channel rdf:about="http://www.rwma.ch/search_rss">
+  <title>WELTI modern art</title>
+  <link>http://www.rwma.ch</link>
+
+  <description>
+    
+            These are the search results for the query, showing results 1 to 8.
+        
+  </description>
+
+  
+
+  
+
+  <image rdf:resource="http://www.rwma.ch/logo.png"/>
+
+  <items>
+    <rdf:Seq>
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/walter-kurt-wiemken/kuhweide"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/walter-kurt-wiemken/poesie-leben-wissenschaft"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/walter-kurt-wiemken/zusammenhange"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/walter-kurt-wiemken/abendstimmung-paris"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/walter-kurt-wiemken/clown"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/walter-kurt-wiemken/stilleben-mit-zwei-fischen-in-schale"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/joan-miro/der-bluhende-widder-le-belier-fleuri"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/walter-kurt-wiemken"/>
+      
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/walter-kurt-wiemken/kuhweide">
+    <title>Kuhweide</title>
+    <link>http://www.rwma.ch/kunstwerke/walter-kurt-wiemken/kuhweide</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Tessin</dc:subject>
+    
+    
+      <dc:subject>Basel</dc:subject>
+    
+    
+      <dc:subject>Kühe</dc:subject>
+    
+    
+      <dc:subject>Surrealismus</dc:subject>
+    
+    
+      <dc:subject>Tier</dc:subject>
+    
+    
+      <dc:subject>Landschaft</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-10-20T18:50:00Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/walter-kurt-wiemken/poesie-leben-wissenschaft">
+    <title>Poesie, Leben, Wissenschaft</title>
+    <link>http://www.rwma.ch/kunstwerke/walter-kurt-wiemken/poesie-leben-wissenschaft</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Tessin</dc:subject>
+    
+    
+      <dc:subject>Kind</dc:subject>
+    
+    
+      <dc:subject>Mensch</dc:subject>
+    
+    
+      <dc:subject>Poesie</dc:subject>
+    
+    
+      <dc:subject>Basel</dc:subject>
+    
+    
+      <dc:subject>Mutter</dc:subject>
+    
+    
+      <dc:subject>Frau</dc:subject>
+    
+    
+      <dc:subject>Surrealismus</dc:subject>
+    
+    
+      <dc:subject>Wissenschaft</dc:subject>
+    
+    
+      <dc:subject>Leben</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-10-20T18:45:08Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/walter-kurt-wiemken/zusammenhange">
+    <title>Zusammenhänge</title>
+    <link>http://www.rwma.ch/kunstwerke/walter-kurt-wiemken/zusammenhange</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Tessin</dc:subject>
+    
+    
+      <dc:subject>Surrealismus</dc:subject>
+    
+    
+      <dc:subject>Basel</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-10-20T18:45:23Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/walter-kurt-wiemken/abendstimmung-paris">
+    <title>Abendstimmung, Paris</title>
+    <link>http://www.rwma.ch/kunstwerke/walter-kurt-wiemken/abendstimmung-paris</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Tessin</dc:subject>
+    
+    
+      <dc:subject>Paris</dc:subject>
+    
+    
+      <dc:subject>Basel</dc:subject>
+    
+    
+      <dc:subject>Surrealismus</dc:subject>
+    
+    
+      <dc:subject>Abend</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-10-20T18:38:19Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/walter-kurt-wiemken/clown">
+    <title>Clown</title>
+    <link>http://www.rwma.ch/kunstwerke/walter-kurt-wiemken/clown</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Tessin</dc:subject>
+    
+    
+      <dc:subject>Tusche</dc:subject>
+    
+    
+      <dc:subject>Basel</dc:subject>
+    
+    
+      <dc:subject>Clown</dc:subject>
+    
+    
+      <dc:subject>Surrealismus</dc:subject>
+    
+    
+      <dc:subject>Zeichnung</dc:subject>
+    
+    
+      <dc:subject>Zirkus</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-10-20T15:30:00Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/walter-kurt-wiemken/stilleben-mit-zwei-fischen-in-schale">
+    <title>Stilleben mit zwei Fischen in Schale</title>
+    <link>http://www.rwma.ch/kunstwerke/walter-kurt-wiemken/stilleben-mit-zwei-fischen-in-schale</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Tessin</dc:subject>
+    
+    
+      <dc:subject>Basel</dc:subject>
+    
+    
+      <dc:subject>Stilleben</dc:subject>
+    
+    
+      <dc:subject>Surrealismus</dc:subject>
+    
+    
+      <dc:subject>Fische</dc:subject>
+    
+    
+      <dc:subject>Schale</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-10-20T15:30:00Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/joan-miro/der-bluhende-widder-le-belier-fleuri">
+    <title>Der blühende Widder / Le bélier fleuri</title>
+    <link>http://www.rwma.ch/kunstwerke/joan-miro/der-bluhende-widder-le-belier-fleuri</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Lithographie</dc:subject>
+    
+    
+      <dc:subject>Graphik</dc:subject>
+    
+    
+      <dc:subject>Surrealismus</dc:subject>
+    
+    
+      <dc:subject>Schnäppchen</dc:subject>
+    
+    
+      <dc:subject>Spanien</dc:subject>
+    
+    
+      <dc:subject>Internationale Kunst</dc:subject>
+    
+    <dc:date>2010-10-19T09:26:41Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/walter-kurt-wiemken">
+    <title>Walter Kurt Wiemken</title>
+    <link>http://www.rwma.ch/kunstwerke/walter-kurt-wiemken</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Figuration</dc:subject>
+    
+    
+      <dc:subject>Tessin</dc:subject>
+    
+    
+      <dc:subject>Basel</dc:subject>
+    
+    
+      <dc:subject>Expressionismus</dc:subject>
+    
+    
+      <dc:subject>Surrealismus</dc:subject>
+    
+    
+      <dc:subject>Schweizer Expressionismus</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-09-28T09:30:15Z</dc:date>
+    <dc:type>Künstler</dc:type>
+  </item>
+
+
+
+
+</rdf:RDF>

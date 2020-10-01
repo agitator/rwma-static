@@ -1,0 +1,594 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+
+
+
+
+    
+
+
+
+<channel rdf:about="http://www.rwma.ch/kunstwerke/schnaeppchen/RSS">
+  <title>Schnäppchen</title>
+  <link>http://www.rwma.ch</link>
+
+  <description>
+    
+      
+    
+  </description>
+
+  
+
+  
+            <syn:updatePeriod>daily</syn:updatePeriod>
+            <syn:updateFrequency>1</syn:updateFrequency>
+            <syn:updateBase>2010-03-01T13:16:14Z</syn:updateBase>
+        
+
+  <image rdf:resource="http://www.rwma.ch/logo.png"/>
+
+  <items>
+    <rdf:Seq>
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/horst-antes/ohne-titel"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/maurice-barraud/ohne-titel-frau-am-meer-mit-booten"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/horst-beck/ohne-titel-nr.-77712"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/joseph-beuys/was-birgt-die-wolke"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/joseph-beuys/the-salomon-r.-guggenheim-museum-new-york"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/joseph-beuys/hauptstrom"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/joseph-beuys/sprachlos"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/joseph-beuys/halbiertes-kilzkreuz-uber-koln"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/joseph-beuys/kleiner-steinhase"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/joseph-beuys/sonne-statt-reagen"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/joseph-beuys/zeichen-aus-dem-braunraum-6-blatt-zusammen-gerahmt"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/joseph-beuys/blumenzucker"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/joseph-beuys/ddr-tuten-guten-einkauf"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/joseph-beuys/demokratie-ist-lustig"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/joseph-beuys/so-kann-die-parteidiktatur-uberwunden-werden"/>
+      
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/horst-antes/ohne-titel">
+    <title>ohne Titel</title>
+    <link>http://www.rwma.ch/kunstwerke/horst-antes/ohne-titel</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Figuration</dc:subject>
+    
+    
+      <dc:subject>Graphik</dc:subject>
+    
+    
+      <dc:subject>Deutschland</dc:subject>
+    
+    
+      <dc:subject>Schnäppchen</dc:subject>
+    
+    
+      <dc:subject>Zeitgenössische Kunst</dc:subject>
+    
+    
+      <dc:subject>Internationale Kunst</dc:subject>
+    
+    <dc:date>2010-10-15T14:15:00Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/maurice-barraud/ohne-titel-frau-am-meer-mit-booten">
+    <title>ohne Titel (Frau am Meer mit Booten)</title>
+    <link>http://www.rwma.ch/kunstwerke/maurice-barraud/ohne-titel-frau-am-meer-mit-booten</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Tusche</dc:subject>
+    
+    
+      <dc:subject>Westschweiz</dc:subject>
+    
+    
+      <dc:subject>Boot</dc:subject>
+    
+    
+      <dc:subject>Schnäppchen</dc:subject>
+    
+    
+      <dc:subject>Zeichnung</dc:subject>
+    
+    
+      <dc:subject>Frau</dc:subject>
+    
+    
+      <dc:subject>Romandie</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    
+      <dc:subject>Meer</dc:subject>
+    
+    <dc:date>2010-10-15T14:16:23Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/horst-beck/ohne-titel-nr.-77712">
+    <title>ohne Titel (Nr. 77712)</title>
+    <link>http://www.rwma.ch/kunstwerke/horst-beck/ohne-titel-nr.-77712</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Deutschland</dc:subject>
+    
+    
+      <dc:subject>Schnäppchen</dc:subject>
+    
+    
+      <dc:subject>Pferd</dc:subject>
+    
+    
+      <dc:subject>Zeitgenössische Kunst</dc:subject>
+    
+    
+      <dc:subject>Tier</dc:subject>
+    
+    <dc:date>2010-10-15T14:25:00Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/joseph-beuys/was-birgt-die-wolke">
+    <title>Was birgt die Wolke</title>
+    <link>http://www.rwma.ch/kunstwerke/joseph-beuys/was-birgt-die-wolke</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Multiple</dc:subject>
+    
+    
+      <dc:subject>Auflageobjekt</dc:subject>
+    
+    
+      <dc:subject>Graphik</dc:subject>
+    
+    
+      <dc:subject>Deutschland</dc:subject>
+    
+    
+      <dc:subject>Schnäppchen</dc:subject>
+    
+    
+      <dc:subject>Internationale Kunst</dc:subject>
+    
+    
+      <dc:subject>Krefeld</dc:subject>
+    
+    <dc:date>2010-11-10T13:20:00Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/joseph-beuys/the-salomon-r.-guggenheim-museum-new-york">
+    <title>The Salomon R. Guggenheim Museum New York</title>
+    <link>http://www.rwma.ch/kunstwerke/joseph-beuys/the-salomon-r.-guggenheim-museum-new-york</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Multiple</dc:subject>
+    
+    
+      <dc:subject>Auflageobjekt</dc:subject>
+    
+    
+      <dc:subject>Graphik</dc:subject>
+    
+    
+      <dc:subject>Deutschland</dc:subject>
+    
+    
+      <dc:subject>Schnäppchen</dc:subject>
+    
+    
+      <dc:subject>Internationale Kunst</dc:subject>
+    
+    
+      <dc:subject>Krefeld</dc:subject>
+    
+    <dc:date>2010-11-10T13:25:00Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/joseph-beuys/hauptstrom">
+    <title>Hauptstrom</title>
+    <link>http://www.rwma.ch/kunstwerke/joseph-beuys/hauptstrom</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Multiple</dc:subject>
+    
+    
+      <dc:subject>Auflageobjekt</dc:subject>
+    
+    
+      <dc:subject>Graphik</dc:subject>
+    
+    
+      <dc:subject>Deutschland</dc:subject>
+    
+    
+      <dc:subject>Schnäppchen</dc:subject>
+    
+    
+      <dc:subject>Internationale Kunst</dc:subject>
+    
+    
+      <dc:subject>Krefeld</dc:subject>
+    
+    <dc:date>2010-11-10T13:29:48Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/joseph-beuys/sprachlos">
+    <title>Sprachlos</title>
+    <link>http://www.rwma.ch/kunstwerke/joseph-beuys/sprachlos</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Multiple</dc:subject>
+    
+    
+      <dc:subject>Auflageobjekt</dc:subject>
+    
+    
+      <dc:subject>Graphik</dc:subject>
+    
+    
+      <dc:subject>Deutschland</dc:subject>
+    
+    
+      <dc:subject>Schnäppchen</dc:subject>
+    
+    
+      <dc:subject>Internationale Kunst</dc:subject>
+    
+    
+      <dc:subject>Krefeld</dc:subject>
+    
+    <dc:date>2010-11-10T13:32:52Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/joseph-beuys/halbiertes-kilzkreuz-uber-koln">
+    <title>Halbiertes Kilzkreuz über Köln</title>
+    <link>http://www.rwma.ch/kunstwerke/joseph-beuys/halbiertes-kilzkreuz-uber-koln</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Multiple</dc:subject>
+    
+    
+      <dc:subject>Auflageobjekt</dc:subject>
+    
+    
+      <dc:subject>Graphik</dc:subject>
+    
+    
+      <dc:subject>Deutschland</dc:subject>
+    
+    
+      <dc:subject>Schnäppchen</dc:subject>
+    
+    
+      <dc:subject>Internationale Kunst</dc:subject>
+    
+    
+      <dc:subject>Krefeld</dc:subject>
+    
+    <dc:date>2010-11-10T13:35:22Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/joseph-beuys/kleiner-steinhase">
+    <title>Kleiner Steinhase</title>
+    <link>http://www.rwma.ch/kunstwerke/joseph-beuys/kleiner-steinhase</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Multiple</dc:subject>
+    
+    
+      <dc:subject>Auflageobjekt</dc:subject>
+    
+    
+      <dc:subject>Graphik</dc:subject>
+    
+    
+      <dc:subject>Deutschland</dc:subject>
+    
+    
+      <dc:subject>Schnäppchen</dc:subject>
+    
+    
+      <dc:subject>Internationale Kunst</dc:subject>
+    
+    
+      <dc:subject>Krefeld</dc:subject>
+    
+    <dc:date>2010-11-10T13:42:36Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/joseph-beuys/sonne-statt-reagen">
+    <title>Sonne statt Reagen</title>
+    <link>http://www.rwma.ch/kunstwerke/joseph-beuys/sonne-statt-reagen</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Multiple</dc:subject>
+    
+    
+      <dc:subject>Auflageobjekt</dc:subject>
+    
+    
+      <dc:subject>Graphik</dc:subject>
+    
+    
+      <dc:subject>Deutschland</dc:subject>
+    
+    
+      <dc:subject>Schnäppchen</dc:subject>
+    
+    
+      <dc:subject>Internationale Kunst</dc:subject>
+    
+    
+      <dc:subject>Krefeld</dc:subject>
+    
+    <dc:date>2010-11-10T13:45:17Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/joseph-beuys/zeichen-aus-dem-braunraum-6-blatt-zusammen-gerahmt">
+    <title>Zeichen aus dem Braunraum, 6 Blatt zusammen gerahmt</title>
+    <link>http://www.rwma.ch/kunstwerke/joseph-beuys/zeichen-aus-dem-braunraum-6-blatt-zusammen-gerahmt</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Multiple</dc:subject>
+    
+    
+      <dc:subject>Auflageobjekt</dc:subject>
+    
+    
+      <dc:subject>Graphik</dc:subject>
+    
+    
+      <dc:subject>Deutschland</dc:subject>
+    
+    
+      <dc:subject>Schnäppchen</dc:subject>
+    
+    
+      <dc:subject>Internationale Kunst</dc:subject>
+    
+    
+      <dc:subject>Krefeld</dc:subject>
+    
+    <dc:date>2010-11-10T13:48:47Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/joseph-beuys/blumenzucker">
+    <title>Blumenzucker</title>
+    <link>http://www.rwma.ch/kunstwerke/joseph-beuys/blumenzucker</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Multiple</dc:subject>
+    
+    
+      <dc:subject>Auflageobjekt</dc:subject>
+    
+    
+      <dc:subject>Graphik</dc:subject>
+    
+    
+      <dc:subject>Deutschland</dc:subject>
+    
+    
+      <dc:subject>Schnäppchen</dc:subject>
+    
+    
+      <dc:subject>Internationale Kunst</dc:subject>
+    
+    
+      <dc:subject>Krefeld</dc:subject>
+    
+    <dc:date>2010-11-10T13:52:45Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/joseph-beuys/ddr-tuten-guten-einkauf">
+    <title>DDR-Tüten - GUTEN EINKAUF</title>
+    <link>http://www.rwma.ch/kunstwerke/joseph-beuys/ddr-tuten-guten-einkauf</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Multiple</dc:subject>
+    
+    
+      <dc:subject>Auflageobjekt</dc:subject>
+    
+    
+      <dc:subject>Graphik</dc:subject>
+    
+    
+      <dc:subject>Deutschland</dc:subject>
+    
+    
+      <dc:subject>Schnäppchen</dc:subject>
+    
+    
+      <dc:subject>Internationale Kunst</dc:subject>
+    
+    
+      <dc:subject>Krefeld</dc:subject>
+    
+    <dc:date>2010-11-10T13:57:09Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/joseph-beuys/demokratie-ist-lustig">
+    <title>Demokratie ist lustig</title>
+    <link>http://www.rwma.ch/kunstwerke/joseph-beuys/demokratie-ist-lustig</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Multiple</dc:subject>
+    
+    
+      <dc:subject>Auflageobjekt</dc:subject>
+    
+    
+      <dc:subject>Graphik</dc:subject>
+    
+    
+      <dc:subject>Deutschland</dc:subject>
+    
+    
+      <dc:subject>Schnäppchen</dc:subject>
+    
+    
+      <dc:subject>Internationale Kunst</dc:subject>
+    
+    
+      <dc:subject>Krefeld</dc:subject>
+    
+    <dc:date>2010-11-10T14:02:22Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/joseph-beuys/so-kann-die-parteidiktatur-uberwunden-werden">
+    <title>So kann die Parteidiktatur überwunden werden</title>
+    <link>http://www.rwma.ch/kunstwerke/joseph-beuys/so-kann-die-parteidiktatur-uberwunden-werden</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Multiple</dc:subject>
+    
+    
+      <dc:subject>Auflageobjekt</dc:subject>
+    
+    
+      <dc:subject>Graphik</dc:subject>
+    
+    
+      <dc:subject>Deutschland</dc:subject>
+    
+    
+      <dc:subject>Schnäppchen</dc:subject>
+    
+    
+      <dc:subject>Internationale Kunst</dc:subject>
+    
+    
+      <dc:subject>Krefeld</dc:subject>
+    
+    <dc:date>2010-11-10T14:07:45Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+
+
+
+</rdf:RDF>

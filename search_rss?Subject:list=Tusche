@@ -1,0 +1,655 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+
+
+
+
+    
+
+
+
+<channel rdf:about="http://www.rwma.ch/search_rss">
+  <title>WELTI modern art</title>
+  <link>http://www.rwma.ch</link>
+
+  <description>
+    
+            These are the search results for the query, showing results 1 to 15.
+        
+  </description>
+
+  
+
+  
+
+  <image rdf:resource="http://www.rwma.ch/logo.png"/>
+
+  <items>
+    <rdf:Seq>
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/walter-kurt-wiemken/clown"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/frederick-j.-wardy/ohne-titel-rechteck-mit-kleinerer-flache-innen"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/frederick-j.-wardy/ohne-titel-rechteck-flache-voll-oben"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/niklaus-stoecklin/metzgerngasse-bern"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/sonja-sekula/einzelne-flachenbegegnung"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/johannes-robert-schurch/mutter-mit-sohn"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/johannes-robert-schurch/ohne-titel-eva-mit-der-schlange"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/johannes-robert-schurch/ohne-titel-mutter-mit-kind"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/johannes-robert-schurch/ohne-titel-freier-und-dirne"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/johannes-robert-schurch/ohne-titel-stehender-mann"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/markus-raetz/ohne-titel"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/leonor-fini/la-gourmandise"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/mario-comensoli/ohne-titel-ballettstudien"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/maurice-barraud/ohne-titel-frau-am-meer-mit-booten"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/walter-kurt-wiemken/selbstbildnis"/>
+      
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/walter-kurt-wiemken/clown">
+    <title>Clown</title>
+    <link>http://www.rwma.ch/kunstwerke/walter-kurt-wiemken/clown</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Tessin</dc:subject>
+    
+    
+      <dc:subject>Tusche</dc:subject>
+    
+    
+      <dc:subject>Basel</dc:subject>
+    
+    
+      <dc:subject>Clown</dc:subject>
+    
+    
+      <dc:subject>Surrealismus</dc:subject>
+    
+    
+      <dc:subject>Zeichnung</dc:subject>
+    
+    
+      <dc:subject>Zirkus</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-10-20T15:30:00Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/frederick-j.-wardy/ohne-titel-rechteck-mit-kleinerer-flache-innen">
+    <title>ohne Titel (Rechteck, mit kleinerer Fläche innen)</title>
+    <link>http://www.rwma.ch/kunstwerke/frederick-j.-wardy/ohne-titel-rechteck-mit-kleinerer-flache-innen</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Amerika</dc:subject>
+    
+    
+      <dc:subject>USA</dc:subject>
+    
+    
+      <dc:subject>Tusche</dc:subject>
+    
+    
+      <dc:subject>Schnäppchen</dc:subject>
+    
+    
+      <dc:subject>Zeichnung</dc:subject>
+    
+    
+      <dc:subject>Internationale Kunst</dc:subject>
+    
+    <dc:date>2010-10-20T13:35:56Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/frederick-j.-wardy/ohne-titel-rechteck-flache-voll-oben">
+    <title>ohne Titel (Rechteck, Fläche voll oben)</title>
+    <link>http://www.rwma.ch/kunstwerke/frederick-j.-wardy/ohne-titel-rechteck-flache-voll-oben</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Amerika</dc:subject>
+    
+    
+      <dc:subject>USA</dc:subject>
+    
+    
+      <dc:subject>Tusche</dc:subject>
+    
+    
+      <dc:subject>Schnäppchen</dc:subject>
+    
+    
+      <dc:subject>Internationale Kunst</dc:subject>
+    
+    <dc:date>2010-10-20T13:25:00Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/niklaus-stoecklin/metzgerngasse-bern">
+    <title>Metzgerngasse Bern</title>
+    <link>http://www.rwma.ch/kunstwerke/niklaus-stoecklin/metzgerngasse-bern</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Tusche</dc:subject>
+    
+    
+      <dc:subject>Basel</dc:subject>
+    
+    
+      <dc:subject>Neue Sachlichkeit</dc:subject>
+    
+    
+      <dc:subject>Zeichnung</dc:subject>
+    
+    
+      <dc:subject>Stadt</dc:subject>
+    
+    
+      <dc:subject>Strasse</dc:subject>
+    
+    
+      <dc:subject>Bern</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-10-19T16:09:29Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/sonja-sekula/einzelne-flachenbegegnung">
+    <title>"Einzelne Flächenbegegnung"</title>
+    <link>http://www.rwma.ch/kunstwerke/sonja-sekula/einzelne-flachenbegegnung</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Innerschweiz</dc:subject>
+    
+    
+      <dc:subject>Zürich</dc:subject>
+    
+    
+      <dc:subject>USA</dc:subject>
+    
+    
+      <dc:subject>Tusche</dc:subject>
+    
+    
+      <dc:subject>Poesie</dc:subject>
+    
+    
+      <dc:subject>Literatur</dc:subject>
+    
+    
+      <dc:subject>Zeichnung</dc:subject>
+    
+    
+      <dc:subject>Luzern</dc:subject>
+    
+    
+      <dc:subject>Amerika</dc:subject>
+    
+    
+      <dc:subject>New York</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-10-19T15:55:00Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/johannes-robert-schurch/mutter-mit-sohn">
+    <title>Mutter mit Sohn</title>
+    <link>http://www.rwma.ch/kunstwerke/johannes-robert-schurch/mutter-mit-sohn</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Tessin</dc:subject>
+    
+    
+      <dc:subject>Kind</dc:subject>
+    
+    
+      <dc:subject>Ascona</dc:subject>
+    
+    
+      <dc:subject>Personen</dc:subject>
+    
+    
+      <dc:subject>Tusche</dc:subject>
+    
+    
+      <dc:subject>Mutter</dc:subject>
+    
+    
+      <dc:subject>Zeichnung</dc:subject>
+    
+    
+      <dc:subject>Aargau</dc:subject>
+    
+    
+      <dc:subject>Schweizer Expressionismus</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-10-19T14:49:25Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/johannes-robert-schurch/ohne-titel-eva-mit-der-schlange">
+    <title>ohne Titel (Eva mit der Schlange)</title>
+    <link>http://www.rwma.ch/kunstwerke/johannes-robert-schurch/ohne-titel-eva-mit-der-schlange</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Tessin</dc:subject>
+    
+    
+      <dc:subject>Ascona</dc:subject>
+    
+    
+      <dc:subject>Tusche</dc:subject>
+    
+    
+      <dc:subject>Zeichnung</dc:subject>
+    
+    
+      <dc:subject>Akt</dc:subject>
+    
+    
+      <dc:subject>Religion</dc:subject>
+    
+    
+      <dc:subject>Aargau</dc:subject>
+    
+    
+      <dc:subject>Aquarell</dc:subject>
+    
+    
+      <dc:subject>Schweizer Expressionismus</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-10-19T14:45:00Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/johannes-robert-schurch/ohne-titel-mutter-mit-kind">
+    <title>ohne Titel (Mutter mit Kind)</title>
+    <link>http://www.rwma.ch/kunstwerke/johannes-robert-schurch/ohne-titel-mutter-mit-kind</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Tessin</dc:subject>
+    
+    
+      <dc:subject>Kind</dc:subject>
+    
+    
+      <dc:subject>Ascona</dc:subject>
+    
+    
+      <dc:subject>Personen</dc:subject>
+    
+    
+      <dc:subject>Tusche</dc:subject>
+    
+    
+      <dc:subject>Figuren</dc:subject>
+    
+    
+      <dc:subject>Mutter</dc:subject>
+    
+    
+      <dc:subject>Zeichnung</dc:subject>
+    
+    
+      <dc:subject>Aargau</dc:subject>
+    
+    
+      <dc:subject>Armut</dc:subject>
+    
+    
+      <dc:subject>Schweizer Expressionismus</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-10-19T14:43:11Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/johannes-robert-schurch/ohne-titel-freier-und-dirne">
+    <title>ohne Titel (Freier und Dirne)</title>
+    <link>http://www.rwma.ch/kunstwerke/johannes-robert-schurch/ohne-titel-freier-und-dirne</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Tessin</dc:subject>
+    
+    
+      <dc:subject>Ascona</dc:subject>
+    
+    
+      <dc:subject>Tusche</dc:subject>
+    
+    
+      <dc:subject>Dirne</dc:subject>
+    
+    
+      <dc:subject>Strassenszene</dc:subject>
+    
+    
+      <dc:subject>Zeichnung</dc:subject>
+    
+    
+      <dc:subject>Freier</dc:subject>
+    
+    
+      <dc:subject>Aargau</dc:subject>
+    
+    
+      <dc:subject>Nacht</dc:subject>
+    
+    
+      <dc:subject>Schweizer Expressionismus</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-10-19T14:41:21Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/johannes-robert-schurch/ohne-titel-stehender-mann">
+    <title>ohne Titel (Stehender Mann)</title>
+    <link>http://www.rwma.ch/kunstwerke/johannes-robert-schurch/ohne-titel-stehender-mann</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Tessin</dc:subject>
+    
+    
+      <dc:subject>Aargau</dc:subject>
+    
+    
+      <dc:subject>Zeichner</dc:subject>
+    
+    
+      <dc:subject>Tusche</dc:subject>
+    
+    
+      <dc:subject>Ascona</dc:subject>
+    
+    
+      <dc:subject>Mann</dc:subject>
+    
+    
+      <dc:subject>Schweizer Expressionismus</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-10-19T14:37:48Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/markus-raetz/ohne-titel">
+    <title>ohne Titel</title>
+    <link>http://www.rwma.ch/kunstwerke/markus-raetz/ohne-titel</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Collage</dc:subject>
+    
+    
+      <dc:subject>Zeichnung</dc:subject>
+    
+    
+      <dc:subject>Tusche</dc:subject>
+    
+    
+      <dc:subject>Internationale Kunst</dc:subject>
+    
+    
+      <dc:subject>Bern</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-10-19T13:44:13Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/leonor-fini/la-gourmandise">
+    <title>La Gourmandise</title>
+    <link>http://www.rwma.ch/kunstwerke/leonor-fini/la-gourmandise</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Frankreich</dc:subject>
+    
+    
+      <dc:subject>Paris</dc:subject>
+    
+    
+      <dc:subject>Poesie</dc:subject>
+    
+    
+      <dc:subject>Literatur</dc:subject>
+    
+    
+      <dc:subject>Zeichnung</dc:subject>
+    
+    
+      <dc:subject>Tusche</dc:subject>
+    
+    
+      <dc:subject>Kinder</dc:subject>
+    
+    
+      <dc:subject>Mensch</dc:subject>
+    
+    
+      <dc:subject>Internationale Kunst</dc:subject>
+    
+    <dc:date>2010-10-16T14:04:11Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/mario-comensoli/ohne-titel-ballettstudien">
+    <title>ohne Titel (Ballettstudien)</title>
+    <link>http://www.rwma.ch/kunstwerke/mario-comensoli/ohne-titel-ballettstudien</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Tessin</dc:subject>
+    
+    
+      <dc:subject>Zürich</dc:subject>
+    
+    
+      <dc:subject>Tusche</dc:subject>
+    
+    
+      <dc:subject>Schnäppchen</dc:subject>
+    
+    
+      <dc:subject>Zeichnung</dc:subject>
+    
+    
+      <dc:subject>Tanz</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    
+      <dc:subject>Ballett</dc:subject>
+    
+    <dc:date>2010-10-15T16:08:51Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/maurice-barraud/ohne-titel-frau-am-meer-mit-booten">
+    <title>ohne Titel (Frau am Meer mit Booten)</title>
+    <link>http://www.rwma.ch/kunstwerke/maurice-barraud/ohne-titel-frau-am-meer-mit-booten</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Tusche</dc:subject>
+    
+    
+      <dc:subject>Westschweiz</dc:subject>
+    
+    
+      <dc:subject>Boot</dc:subject>
+    
+    
+      <dc:subject>Schnäppchen</dc:subject>
+    
+    
+      <dc:subject>Zeichnung</dc:subject>
+    
+    
+      <dc:subject>Frau</dc:subject>
+    
+    
+      <dc:subject>Romandie</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    
+      <dc:subject>Meer</dc:subject>
+    
+    <dc:date>2010-10-15T14:16:23Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/walter-kurt-wiemken/selbstbildnis">
+    <title>Selbstbildnis</title>
+    <link>http://www.rwma.ch/kunstwerke/walter-kurt-wiemken/selbstbildnis</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Tessin</dc:subject>
+    
+    
+      <dc:subject>Tusche</dc:subject>
+    
+    
+      <dc:subject>Basel</dc:subject>
+    
+    
+      <dc:subject>Aquarell</dc:subject>
+    
+    
+      <dc:subject>Selbstportrait</dc:subject>
+    
+    <dc:date>2010-10-08T16:20:00Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+
+
+</rdf:RDF>

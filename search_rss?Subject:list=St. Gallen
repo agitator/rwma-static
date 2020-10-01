@@ -1,0 +1,715 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+
+
+
+
+    
+
+
+
+<channel rdf:about="http://www.rwma.ch/search_rss">
+  <title>WELTI modern art</title>
+  <link>http://www.rwma.ch</link>
+
+  <description>
+    
+            These are the search results for the query, showing results 1 to 15.
+        
+  </description>
+
+  
+
+  
+
+  <image rdf:resource="http://www.rwma.ch/logo.png"/>
+
+  <items>
+    <rdf:Seq>
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/fritz-pauli/ohne-titel-amden-blick-linthebene"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/fritz-pauli/ohne-titel-amden-mit-wasserfall-blaues-haus"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/fritz-pauli/ein-gruss-aus-dem-amdener-kuhstall"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/kurt-laurenz-metzler/schlangenvogel"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/ignaz-epper/franz-von-assisi-san-francesco"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/ignaz-epper/madchenkopf"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/ignaz-epper/senegalese"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/ignaz-epper/handorgelspieler"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/ignaz-epper/karussell"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/ignaz-epper/gelage-mit-dirne-ii"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/ignaz-epper/ischia"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/josef-ebnother/aufbruch"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/martha-cunz/vorfruhling"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/martha-cunz/im-appenzellerland-winter"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/martha-cunz/wildkirchlein"/>
+      
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/fritz-pauli/ohne-titel-amden-blick-linthebene">
+    <title>ohne Titel (Amden, Blick Linthebene)</title>
+    <link>http://www.rwma.ch/kunstwerke/fritz-pauli/ohne-titel-amden-blick-linthebene</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Tessin</dc:subject>
+    
+    
+      <dc:subject>Ostschweiz</dc:subject>
+    
+    
+      <dc:subject>Amden</dc:subject>
+    
+    
+      <dc:subject>Landschaft</dc:subject>
+    
+    
+      <dc:subject>Zeichnung</dc:subject>
+    
+    
+      <dc:subject>St. Gallen</dc:subject>
+    
+    
+      <dc:subject>Aquarell</dc:subject>
+    
+    
+      <dc:subject>Bern</dc:subject>
+    
+    
+      <dc:subject>Schweizer Expressionismus</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-10-19T13:22:20Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/fritz-pauli/ohne-titel-amden-mit-wasserfall-blaues-haus">
+    <title>ohne Titel (Amden mit Wasserfall, Blaues Haus)</title>
+    <link>http://www.rwma.ch/kunstwerke/fritz-pauli/ohne-titel-amden-mit-wasserfall-blaues-haus</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Tessin</dc:subject>
+    
+    
+      <dc:subject>Ostschweiz</dc:subject>
+    
+    
+      <dc:subject>Amden</dc:subject>
+    
+    
+      <dc:subject>Schweizer Expressionismus</dc:subject>
+    
+    
+      <dc:subject>Zeichnung</dc:subject>
+    
+    
+      <dc:subject>St. Gallen</dc:subject>
+    
+    
+      <dc:subject>Aquarell</dc:subject>
+    
+    
+      <dc:subject>Wasser</dc:subject>
+    
+    
+      <dc:subject>Bern</dc:subject>
+    
+    
+      <dc:subject>Landschaft</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-10-19T13:15:31Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/fritz-pauli/ein-gruss-aus-dem-amdener-kuhstall">
+    <title>Ein Gruss aus dem Amdener Kuhstall</title>
+    <link>http://www.rwma.ch/kunstwerke/fritz-pauli/ein-gruss-aus-dem-amdener-kuhstall</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Tessin</dc:subject>
+    
+    
+      <dc:subject>Amden</dc:subject>
+    
+    
+      <dc:subject>Zeichnung</dc:subject>
+    
+    
+      <dc:subject>St. Gallen</dc:subject>
+    
+    
+      <dc:subject>Kühe</dc:subject>
+    
+    
+      <dc:subject>Kohle</dc:subject>
+    
+    
+      <dc:subject>Tier</dc:subject>
+    
+    
+      <dc:subject>Bern</dc:subject>
+    
+    
+      <dc:subject>Schweizer Expressionismus</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-10-19T10:15:00Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/kurt-laurenz-metzler/schlangenvogel">
+    <title>Schlangenvogel</title>
+    <link>http://www.rwma.ch/kunstwerke/kurt-laurenz-metzler/schlangenvogel</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Tessin</dc:subject>
+    
+    
+      <dc:subject>Bildhauer</dc:subject>
+    
+    
+      <dc:subject>Zürich</dc:subject>
+    
+    
+      <dc:subject>Collage</dc:subject>
+    
+    
+      <dc:subject>Italien</dc:subject>
+    
+    
+      <dc:subject>St. Gallen</dc:subject>
+    
+    
+      <dc:subject>Skulptur</dc:subject>
+    
+    
+      <dc:subject>Schlange</dc:subject>
+    
+    
+      <dc:subject>Tier</dc:subject>
+    
+    
+      <dc:subject>Ostschweiz</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-10-19T09:05:23Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/ignaz-epper/franz-von-assisi-san-francesco">
+    <title>Franz von Assisi (San Francesco)</title>
+    <link>http://www.rwma.ch/kunstwerke/ignaz-epper/franz-von-assisi-san-francesco</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>St. Gallen</dc:subject>
+    
+    
+      <dc:subject>Ascona</dc:subject>
+    
+    
+      <dc:subject>Lithographie</dc:subject>
+    
+    
+      <dc:subject>Graphik</dc:subject>
+    
+    
+      <dc:subject>Thurgau</dc:subject>
+    
+    
+      <dc:subject>Religion</dc:subject>
+    
+    
+      <dc:subject>Schweizer Expressionist</dc:subject>
+    
+    
+      <dc:subject>Tessin</dc:subject>
+    
+    
+      <dc:subject>Ostschweiz</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-10-15T19:10:09Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/ignaz-epper/madchenkopf">
+    <title>Mädchenkopf</title>
+    <link>http://www.rwma.ch/kunstwerke/ignaz-epper/madchenkopf</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Mädchen</dc:subject>
+    
+    
+      <dc:subject>St. Gallen</dc:subject>
+    
+    
+      <dc:subject>Ascona</dc:subject>
+    
+    
+      <dc:subject>Mensch</dc:subject>
+    
+    
+      <dc:subject>Lithographie</dc:subject>
+    
+    
+      <dc:subject>Graphik</dc:subject>
+    
+    
+      <dc:subject>Thurgau</dc:subject>
+    
+    
+      <dc:subject>Frau</dc:subject>
+    
+    
+      <dc:subject>Tessin</dc:subject>
+    
+    
+      <dc:subject>Portrait</dc:subject>
+    
+    
+      <dc:subject>Ostschweiz</dc:subject>
+    
+    
+      <dc:subject>Schweizer Expressionismus</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-10-15T19:00:00Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/ignaz-epper/senegalese">
+    <title>Senegalese</title>
+    <link>http://www.rwma.ch/kunstwerke/ignaz-epper/senegalese</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>St. Gallen</dc:subject>
+    
+    
+      <dc:subject>Ascona</dc:subject>
+    
+    
+      <dc:subject>Mensch</dc:subject>
+    
+    
+      <dc:subject>Graphik</dc:subject>
+    
+    
+      <dc:subject>Thurgau</dc:subject>
+    
+    
+      <dc:subject>Afrika</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    
+      <dc:subject>Tessin</dc:subject>
+    
+    
+      <dc:subject>Ostschweiz</dc:subject>
+    
+    
+      <dc:subject>Schweizer Expressionismus</dc:subject>
+    
+    
+      <dc:subject>Mann</dc:subject>
+    
+    
+      <dc:subject>Holzschnitt</dc:subject>
+    
+    <dc:date>2010-10-15T18:56:37Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/ignaz-epper/handorgelspieler">
+    <title>Handorgelspieler</title>
+    <link>http://www.rwma.ch/kunstwerke/ignaz-epper/handorgelspieler</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>St. Gallen</dc:subject>
+    
+    
+      <dc:subject>Ascona</dc:subject>
+    
+    
+      <dc:subject>Musik</dc:subject>
+    
+    
+      <dc:subject>Thurgau</dc:subject>
+    
+    
+      <dc:subject>Zeichnung</dc:subject>
+    
+    
+      <dc:subject>Kohle</dc:subject>
+    
+    
+      <dc:subject>Tessin</dc:subject>
+    
+    
+      <dc:subject>Ostschweiz</dc:subject>
+    
+    
+      <dc:subject>Schweizer Expressionismus</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-10-15T18:54:02Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/ignaz-epper/karussell">
+    <title>Karussell</title>
+    <link>http://www.rwma.ch/kunstwerke/ignaz-epper/karussell</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>St. Gallen</dc:subject>
+    
+    
+      <dc:subject>Ascona</dc:subject>
+    
+    
+      <dc:subject>Graphik</dc:subject>
+    
+    
+      <dc:subject>Thurgau</dc:subject>
+    
+    
+      <dc:subject>Holzschnitt</dc:subject>
+    
+    
+      <dc:subject>Tessin</dc:subject>
+    
+    
+      <dc:subject>Ostschweiz</dc:subject>
+    
+    
+      <dc:subject>Schweizer Expressionismus</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-10-15T18:50:41Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/ignaz-epper/gelage-mit-dirne-ii">
+    <title>Gelage mit Dirne II</title>
+    <link>http://www.rwma.ch/kunstwerke/ignaz-epper/gelage-mit-dirne-ii</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>St. Gallen</dc:subject>
+    
+    
+      <dc:subject>Tessin</dc:subject>
+    
+    
+      <dc:subject>Ascona</dc:subject>
+    
+    
+      <dc:subject>Graphik</dc:subject>
+    
+    
+      <dc:subject>Thurgau</dc:subject>
+    
+    
+      <dc:subject>Holzschnitt</dc:subject>
+    
+    
+      <dc:subject>Ostschweiz</dc:subject>
+    
+    
+      <dc:subject>Schweizer Expressionismus</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-10-15T18:50:00Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/ignaz-epper/ischia">
+    <title>Ischia</title>
+    <link>http://www.rwma.ch/kunstwerke/ignaz-epper/ischia</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>St. Gallen</dc:subject>
+    
+    
+      <dc:subject>Tessin</dc:subject>
+    
+    
+      <dc:subject>Ascona</dc:subject>
+    
+    
+      <dc:subject>Schweizer Expressionismus</dc:subject>
+    
+    
+      <dc:subject>Italien</dc:subject>
+    
+    
+      <dc:subject>Thurgau</dc:subject>
+    
+    
+      <dc:subject>Aquarell</dc:subject>
+    
+    
+      <dc:subject>Ostschweiz</dc:subject>
+    
+    
+      <dc:subject>Landschaft</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-10-15T18:40:00Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/josef-ebnother/aufbruch">
+    <title>Aufbruch</title>
+    <link>http://www.rwma.ch/kunstwerke/josef-ebnother/aufbruch</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>St. Gallen</dc:subject>
+    
+    
+      <dc:subject>Blau</dc:subject>
+    
+    
+      <dc:subject>Religion</dc:subject>
+    
+    
+      <dc:subject>Abstrakte Malerei</dc:subject>
+    
+    
+      <dc:subject>Gemälde</dc:subject>
+    
+    
+      <dc:subject>Malerei</dc:subject>
+    
+    
+      <dc:subject>Ostschweiz</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-10-15T18:35:13Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/martha-cunz/vorfruhling">
+    <title>Vorfrühling</title>
+    <link>http://www.rwma.ch/kunstwerke/martha-cunz/vorfruhling</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>St. Gallen</dc:subject>
+    
+    
+      <dc:subject>Graphik</dc:subject>
+    
+    
+      <dc:subject>Holzschnitt</dc:subject>
+    
+    
+      <dc:subject>Ostschweiz</dc:subject>
+    
+    
+      <dc:subject>Jugendstil</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-10-15T18:07:18Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/martha-cunz/im-appenzellerland-winter">
+    <title>Im Appenzellerland (Winter)</title>
+    <link>http://www.rwma.ch/kunstwerke/martha-cunz/im-appenzellerland-winter</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>St. Gallen</dc:subject>
+    
+    
+      <dc:subject>Winter</dc:subject>
+    
+    
+      <dc:subject>Graphik</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    
+      <dc:subject>Ostschweiz</dc:subject>
+    
+    
+      <dc:subject>Landschaft</dc:subject>
+    
+    
+      <dc:subject>Jugendstil</dc:subject>
+    
+    
+      <dc:subject>Appenzell</dc:subject>
+    
+    
+      <dc:subject>Holzschnitt</dc:subject>
+    
+    <dc:date>2010-10-15T18:04:45Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/martha-cunz/wildkirchlein">
+    <title>Wildkirchlein</title>
+    <link>http://www.rwma.ch/kunstwerke/martha-cunz/wildkirchlein</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>St. Gallen</dc:subject>
+    
+    
+      <dc:subject>Graphik</dc:subject>
+    
+    
+      <dc:subject>Religion</dc:subject>
+    
+    
+      <dc:subject>Kirche</dc:subject>
+    
+    
+      <dc:subject>Ostschweiz</dc:subject>
+    
+    
+      <dc:subject>Jugendstil</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    
+      <dc:subject>Holzschnitt</dc:subject>
+    
+    <dc:date>2010-10-15T18:00:48Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+
+
+</rdf:RDF>

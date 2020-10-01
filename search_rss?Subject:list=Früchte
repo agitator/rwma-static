@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+
+
+
+
+    
+
+
+
+<channel rdf:about="http://www.rwma.ch/search_rss">
+  <title>WELTI modern art</title>
+  <link>http://www.rwma.ch</link>
+
+  <description>
+    
+            These are the search results for the query, showing results 1 to 2.
+        
+  </description>
+
+  
+
+  
+
+  <image rdf:resource="http://www.rwma.ch/logo.png"/>
+
+  <items>
+    <rdf:Seq>
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/tullio-pericoli/ohne-titel-fruchte-vase"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/helen-dahm/ohne-titel-stilleben-mit-gefassen-und-fruchten"/>
+      
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/tullio-pericoli/ohne-titel-fruchte-vase">
+    <title>ohne Titel (Früchte / Vase)</title>
+    <link>http://www.rwma.ch/kunstwerke/tullio-pericoli/ohne-titel-fruchte-vase</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Oper</dc:subject>
+    
+    
+      <dc:subject>Graphik</dc:subject>
+    
+    
+      <dc:subject>Italien</dc:subject>
+    
+    
+      <dc:subject>Früchte</dc:subject>
+    
+    
+      <dc:subject>Stilleben</dc:subject>
+    
+    
+      <dc:subject>Karikatur</dc:subject>
+    
+    
+      <dc:subject>Internationale Kunst</dc:subject>
+    
+    
+      <dc:subject>Vase</dc:subject>
+    
+    
+      <dc:subject>Kaltnadelradierung</dc:subject>
+    
+    <dc:date>2010-10-19T13:42:18Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/helen-dahm/ohne-titel-stilleben-mit-gefassen-und-fruchten">
+    <title>ohne Titel (Stilleben mit Gefässen und Früchten)</title>
+    <link>http://www.rwma.ch/kunstwerke/helen-dahm/ohne-titel-stilleben-mit-gefassen-und-fruchten</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Figuration</dc:subject>
+    
+    
+      <dc:subject>Zürich</dc:subject>
+    
+    
+      <dc:subject>Früchte</dc:subject>
+    
+    
+      <dc:subject>Thurgau</dc:subject>
+    
+    
+      <dc:subject>Zürichsee</dc:subject>
+    
+    
+      <dc:subject>Ostschweiz</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-09-28T08:40:00Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+
+
+</rdf:RDF>

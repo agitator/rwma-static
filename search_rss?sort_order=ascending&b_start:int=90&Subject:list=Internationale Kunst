@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+
+
+
+
+    
+
+
+
+<channel rdf:about="http://www.rwma.ch/search_rss">
+  <title>WELTI modern art</title>
+  <link>http://www.rwma.ch</link>
+
+  <description>
+    
+            These are the search results for the query, showing results 91 to 105.
+        
+  </description>
+
+  
+
+  
+
+  <image rdf:resource="http://www.rwma.ch/logo.png"/>
+
+  <items>
+    <rdf:Seq>
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/honore-daumier/karikatur-les-carottes-carotte-du-restaurant-no-3-no-584"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/honore-daumier/karikatur-le-narcisse-du-dix-decembre"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/jean-cocteau/portrait-eines-mannes"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/chin-hsiao/ohne-titel"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/pedro-chillida-txillida/ohne-titel-liegender"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/pedro-chillida-txillida/ohne-titel-schreitender-vorder-ruckenansicht"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/pedro-chillida-txillida/ohne-titel-schreitender-vorder-seitenansicht"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/marc-chagall/der-maler-und-sein-abbild"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/horst-antes/ohne-titel"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/gregory-amenoff/16"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/gregory-amenoff/santuario-xxiii"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/fritz-winter"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/rodney-white"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/frederick-j.-wardy"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/edouard-vuillard"/>
+      
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/honore-daumier/karikatur-les-carottes-carotte-du-restaurant-no-3-no-584">
+    <title>Karikatur - Les carottes - Carotte du restaurant - No 3 - No 584</title>
+    <link>http://www.rwma.ch/kunstwerke/honore-daumier/karikatur-les-carottes-carotte-du-restaurant-no-3-no-584</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Frankreich</dc:subject>
+    
+    
+      <dc:subject>Zeitung</dc:subject>
+    
+    
+      <dc:subject>Internationale Kunst</dc:subject>
+    
+    
+      <dc:subject>Karikatur</dc:subject>
+    
+    
+      <dc:subject>19. Jahrhundert</dc:subject>
+    
+    <dc:date>2010-10-15T18:20:00Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/honore-daumier/karikatur-le-narcisse-du-dix-decembre">
+    <title>Karikatur - Le Narcisse du dix Décembre</title>
+    <link>http://www.rwma.ch/kunstwerke/honore-daumier/karikatur-le-narcisse-du-dix-decembre</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Frankreich</dc:subject>
+    
+    
+      <dc:subject>Graphik</dc:subject>
+    
+    
+      <dc:subject>Schnäppchen</dc:subject>
+    
+    
+      <dc:subject>Internationale Kunst</dc:subject>
+    
+    
+      <dc:subject>Karikatur</dc:subject>
+    
+    
+      <dc:subject>19. Jahrhundert</dc:subject>
+    
+    <dc:date>2010-10-15T18:20:00Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/jean-cocteau/portrait-eines-mannes">
+    <title>Portrait eines Mannes</title>
+    <link>http://www.rwma.ch/kunstwerke/jean-cocteau/portrait-eines-mannes</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Frankreich</dc:subject>
+    
+    
+      <dc:subject>Schnäppchen</dc:subject>
+    
+    
+      <dc:subject>Internationale Kunst</dc:subject>
+    
+    
+      <dc:subject>Keramik</dc:subject>
+    
+    
+      <dc:subject>Mann</dc:subject>
+    
+    <dc:date>2010-10-15T16:00:33Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/chin-hsiao/ohne-titel">
+    <title>ohne Titel</title>
+    <link>http://www.rwma.ch/kunstwerke/chin-hsiao/ohne-titel</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Internationale Kunst</dc:subject>
+    
+    
+      <dc:subject>Abstrakte Malerei</dc:subject>
+    
+    
+      <dc:subject>Schnäppchen</dc:subject>
+    
+    <dc:date>2010-10-15T15:57:35Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/pedro-chillida-txillida/ohne-titel-liegender">
+    <title>ohne Titel (Liegender)</title>
+    <link>http://www.rwma.ch/kunstwerke/pedro-chillida-txillida/ohne-titel-liegender</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Mensch</dc:subject>
+    
+    
+      <dc:subject>Schnäppchen</dc:subject>
+    
+    
+      <dc:subject>Zeichnung</dc:subject>
+    
+    
+      <dc:subject>Spanien</dc:subject>
+    
+    
+      <dc:subject>Zeitgenössische Kunst</dc:subject>
+    
+    
+      <dc:subject>Internationale Kunst</dc:subject>
+    
+    
+      <dc:subject>Mann</dc:subject>
+    
+    <dc:date>2010-10-15T15:55:00Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/pedro-chillida-txillida/ohne-titel-schreitender-vorder-ruckenansicht">
+    <title>ohne Titel (Schreitender, Vorder- + Rückenansicht)</title>
+    <link>http://www.rwma.ch/kunstwerke/pedro-chillida-txillida/ohne-titel-schreitender-vorder-ruckenansicht</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Mensch</dc:subject>
+    
+    
+      <dc:subject>Schnäppchen</dc:subject>
+    
+    
+      <dc:subject>Spanien</dc:subject>
+    
+    
+      <dc:subject>Internationale Kunst</dc:subject>
+    
+    
+      <dc:subject>Mann</dc:subject>
+    
+    <dc:date>2010-10-15T15:50:11Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/pedro-chillida-txillida/ohne-titel-schreitender-vorder-seitenansicht">
+    <title>ohne Titel (Schreitender, Vorder- + Seitenansicht)</title>
+    <link>http://www.rwma.ch/kunstwerke/pedro-chillida-txillida/ohne-titel-schreitender-vorder-seitenansicht</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Mensch</dc:subject>
+    
+    
+      <dc:subject>Schnäppchen</dc:subject>
+    
+    
+      <dc:subject>Zeichnung</dc:subject>
+    
+    
+      <dc:subject>Spanien</dc:subject>
+    
+    
+      <dc:subject>Zeitgenössische Kunst</dc:subject>
+    
+    
+      <dc:subject>Internationale Kunst</dc:subject>
+    
+    
+      <dc:subject>Mann</dc:subject>
+    
+    <dc:date>2010-10-15T15:45:00Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/marc-chagall/der-maler-und-sein-abbild">
+    <title>Der Maler und sein Abbild</title>
+    <link>http://www.rwma.ch/kunstwerke/marc-chagall/der-maler-und-sein-abbild</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Internationale Kunst</dc:subject>
+    
+    
+      <dc:subject>Lithographie</dc:subject>
+    
+    
+      <dc:subject>Russland</dc:subject>
+    
+    
+      <dc:subject>Frankreich</dc:subject>
+    
+    <dc:date>2010-10-15T15:40:00Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/horst-antes/ohne-titel">
+    <title>ohne Titel</title>
+    <link>http://www.rwma.ch/kunstwerke/horst-antes/ohne-titel</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Figuration</dc:subject>
+    
+    
+      <dc:subject>Graphik</dc:subject>
+    
+    
+      <dc:subject>Deutschland</dc:subject>
+    
+    
+      <dc:subject>Schnäppchen</dc:subject>
+    
+    
+      <dc:subject>Zeitgenössische Kunst</dc:subject>
+    
+    
+      <dc:subject>Internationale Kunst</dc:subject>
+    
+    <dc:date>2010-10-15T14:15:00Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/gregory-amenoff/16">
+    <title># 16</title>
+    <link>http://www.rwma.ch/kunstwerke/gregory-amenoff/16</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Amerika</dc:subject>
+    
+    
+      <dc:subject>USA</dc:subject>
+    
+    
+      <dc:subject>Zeichnung</dc:subject>
+    
+    
+      <dc:subject>Gouache</dc:subject>
+    
+    
+      <dc:subject>Zeitgenössische Kunst</dc:subject>
+    
+    
+      <dc:subject>Wasserfarben</dc:subject>
+    
+    
+      <dc:subject>Internationale Kunst</dc:subject>
+    
+    <dc:date>2010-10-14T15:30:00Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/gregory-amenoff/santuario-xxiii">
+    <title>Santuario XXIII</title>
+    <link>http://www.rwma.ch/kunstwerke/gregory-amenoff/santuario-xxiii</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Amerika</dc:subject>
+    
+    
+      <dc:subject>Friedhof</dc:subject>
+    
+    
+      <dc:subject>USA</dc:subject>
+    
+    
+      <dc:subject>Religion</dc:subject>
+    
+    
+      <dc:subject>Zeichnung</dc:subject>
+    
+    
+      <dc:subject>Gouache</dc:subject>
+    
+    
+      <dc:subject>Zeitgenössische Kunst</dc:subject>
+    
+    
+      <dc:subject>Wasserfarben</dc:subject>
+    
+    
+      <dc:subject>Internationale Kunst</dc:subject>
+    
+    <dc:date>2010-10-14T15:25:00Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/fritz-winter">
+    <title>Fritz Winter</title>
+    <link>http://www.rwma.ch/kunstwerke/fritz-winter</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Informel</dc:subject>
+    
+    
+      <dc:subject>Internationale Kunst</dc:subject>
+    
+    
+      <dc:subject>Deutschland</dc:subject>
+    
+    <dc:date>2010-10-13T16:10:29Z</dc:date>
+    <dc:type>Künstler</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/rodney-white">
+    <title>Rodney White</title>
+    <link>http://www.rwma.ch/kunstwerke/rodney-white</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Internationale Kunst</dc:subject>
+    
+    
+      <dc:subject>USA</dc:subject>
+    
+    <dc:date>2010-10-13T16:05:00Z</dc:date>
+    <dc:type>Künstler</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/frederick-j.-wardy">
+    <title>Frederick J. Wardy</title>
+    <link>http://www.rwma.ch/kunstwerke/frederick-j.-wardy</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Internationale Kunst</dc:subject>
+    
+    
+      <dc:subject>Amerika</dc:subject>
+    
+    
+      <dc:subject>Zeitgenössische Kunst</dc:subject>
+    
+    <dc:date>2010-10-13T15:57:39Z</dc:date>
+    <dc:type>Künstler</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/edouard-vuillard">
+    <title>Edouard Vuillard</title>
+    <link>http://www.rwma.ch/kunstwerke/edouard-vuillard</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Paris</dc:subject>
+    
+    
+      <dc:subject>Internationale Kunst</dc:subject>
+    
+    
+      <dc:subject>Nabis</dc:subject>
+    
+    
+      <dc:subject>Frankreich</dc:subject>
+    
+    <dc:date>2010-10-13T15:35:01Z</dc:date>
+    <dc:type>Künstler</dc:type>
+  </item>
+
+
+
+
+</rdf:RDF>

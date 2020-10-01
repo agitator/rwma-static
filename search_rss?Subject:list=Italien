@@ -1,0 +1,571 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+
+
+
+
+    
+
+
+
+<channel rdf:about="http://www.rwma.ch/search_rss">
+  <title>WELTI modern art</title>
+  <link>http://www.rwma.ch</link>
+
+  <description>
+    
+            These are the search results for the query, showing results 1 to 15.
+        
+  </description>
+
+  
+
+  
+
+  <image rdf:resource="http://www.rwma.ch/logo.png"/>
+
+  <items>
+    <rdf:Seq>
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/hans-thoma/ponte-nomentano"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/tullio-pericoli/ohne-titel-fruchte-vase"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/tullio-pericoli/ohne-titel-straubendes-pferd-mit-reiter-und-wildschwein"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/kurt-laurenz-metzler/schlangenvogel"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/gaetano-grillo/fraseggio"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/gaetano-grillo/parlato"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/gaetano-grillo/stratiscritto"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/gaetano-grillo/testoconkeith"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/gaetano-grillo/epigrafe-carnale"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/gaetano-grillo/per-vocabolo"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/franz-franz/siena-stadtmauer"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/ignaz-epper/ischia"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/mario-comensoli/ohne-titel-stehender-jungling-italiener"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/natale-sapone"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/tullio-pericoli"/>
+      
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/hans-thoma/ponte-nomentano">
+    <title>Ponte Nomentano</title>
+    <link>http://www.rwma.ch/kunstwerke/hans-thoma/ponte-nomentano</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Rom</dc:subject>
+    
+    
+      <dc:subject>Italien</dc:subject>
+    
+    
+      <dc:subject>Deutschland</dc:subject>
+    
+    
+      <dc:subject>Internationale Kunst</dc:subject>
+    
+    
+      <dc:subject>Landschaft</dc:subject>
+    
+    
+      <dc:subject>19. Jahrhundert</dc:subject>
+    
+    <dc:date>2010-10-19T16:15:00Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/tullio-pericoli/ohne-titel-fruchte-vase">
+    <title>ohne Titel (Früchte / Vase)</title>
+    <link>http://www.rwma.ch/kunstwerke/tullio-pericoli/ohne-titel-fruchte-vase</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Oper</dc:subject>
+    
+    
+      <dc:subject>Graphik</dc:subject>
+    
+    
+      <dc:subject>Italien</dc:subject>
+    
+    
+      <dc:subject>Früchte</dc:subject>
+    
+    
+      <dc:subject>Stilleben</dc:subject>
+    
+    
+      <dc:subject>Karikatur</dc:subject>
+    
+    
+      <dc:subject>Internationale Kunst</dc:subject>
+    
+    
+      <dc:subject>Vase</dc:subject>
+    
+    
+      <dc:subject>Kaltnadelradierung</dc:subject>
+    
+    <dc:date>2010-10-19T13:42:18Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/tullio-pericoli/ohne-titel-straubendes-pferd-mit-reiter-und-wildschwein">
+    <title>ohne Titel (Sträubendes Pferd mit Reiter und Wildschwein)</title>
+    <link>http://www.rwma.ch/kunstwerke/tullio-pericoli/ohne-titel-straubendes-pferd-mit-reiter-und-wildschwein</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Oper</dc:subject>
+    
+    
+      <dc:subject>Graphik</dc:subject>
+    
+    
+      <dc:subject>Poesie</dc:subject>
+    
+    
+      <dc:subject>Italien</dc:subject>
+    
+    
+      <dc:subject>Literatur</dc:subject>
+    
+    
+      <dc:subject>Reiter</dc:subject>
+    
+    
+      <dc:subject>Pferd</dc:subject>
+    
+    
+      <dc:subject>Tier</dc:subject>
+    
+    
+      <dc:subject>Internationale Kunst</dc:subject>
+    
+    
+      <dc:subject>Wildschwein</dc:subject>
+    
+    
+      <dc:subject>Karikatur</dc:subject>
+    
+    <dc:date>2010-10-19T13:40:04Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/kurt-laurenz-metzler/schlangenvogel">
+    <title>Schlangenvogel</title>
+    <link>http://www.rwma.ch/kunstwerke/kurt-laurenz-metzler/schlangenvogel</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Tessin</dc:subject>
+    
+    
+      <dc:subject>Bildhauer</dc:subject>
+    
+    
+      <dc:subject>Zürich</dc:subject>
+    
+    
+      <dc:subject>Collage</dc:subject>
+    
+    
+      <dc:subject>Italien</dc:subject>
+    
+    
+      <dc:subject>St. Gallen</dc:subject>
+    
+    
+      <dc:subject>Skulptur</dc:subject>
+    
+    
+      <dc:subject>Schlange</dc:subject>
+    
+    
+      <dc:subject>Tier</dc:subject>
+    
+    
+      <dc:subject>Ostschweiz</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-10-19T09:05:23Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/gaetano-grillo/fraseggio">
+    <title>Fraseggio</title>
+    <link>http://www.rwma.ch/kunstwerke/gaetano-grillo/fraseggio</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Mailand</dc:subject>
+    
+    
+      <dc:subject>Italien</dc:subject>
+    
+    
+      <dc:subject>Zeitgenössische Kunst</dc:subject>
+    
+    
+      <dc:subject>Internationale Kunst</dc:subject>
+    
+    
+      <dc:subject>Papier</dc:subject>
+    
+    <dc:date>2010-10-18T15:41:49Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/gaetano-grillo/parlato">
+    <title>Parlato</title>
+    <link>http://www.rwma.ch/kunstwerke/gaetano-grillo/parlato</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Mailand</dc:subject>
+    
+    
+      <dc:subject>Italien</dc:subject>
+    
+    
+      <dc:subject>Zeitgenössische Kunst</dc:subject>
+    
+    
+      <dc:subject>Internationale Kunst</dc:subject>
+    
+    
+      <dc:subject>Papier</dc:subject>
+    
+    <dc:date>2010-10-18T15:40:24Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/gaetano-grillo/stratiscritto">
+    <title>Stratiscritto</title>
+    <link>http://www.rwma.ch/kunstwerke/gaetano-grillo/stratiscritto</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Mailand</dc:subject>
+    
+    
+      <dc:subject>Italien</dc:subject>
+    
+    
+      <dc:subject>Zeitgenössische Kunst</dc:subject>
+    
+    
+      <dc:subject>Internationale Kunst</dc:subject>
+    
+    
+      <dc:subject>Papier</dc:subject>
+    
+    <dc:date>2010-10-18T15:39:03Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/gaetano-grillo/testoconkeith">
+    <title>Testoconkeith</title>
+    <link>http://www.rwma.ch/kunstwerke/gaetano-grillo/testoconkeith</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Mailand</dc:subject>
+    
+    
+      <dc:subject>Italien</dc:subject>
+    
+    
+      <dc:subject>Zeitgenössische Kunst</dc:subject>
+    
+    
+      <dc:subject>Internationale Kunst</dc:subject>
+    
+    
+      <dc:subject>Papier</dc:subject>
+    
+    <dc:date>2010-10-18T15:37:11Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/gaetano-grillo/epigrafe-carnale">
+    <title>Epigrafe Carnale</title>
+    <link>http://www.rwma.ch/kunstwerke/gaetano-grillo/epigrafe-carnale</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Internationale Kunst</dc:subject>
+    
+    
+      <dc:subject>Italien</dc:subject>
+    
+    
+      <dc:subject>Zeitgenössische Kunst</dc:subject>
+    
+    
+      <dc:subject>Mailand</dc:subject>
+    
+    <dc:date>2010-10-18T15:34:59Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/gaetano-grillo/per-vocabolo">
+    <title>Per vocabolo</title>
+    <link>http://www.rwma.ch/kunstwerke/gaetano-grillo/per-vocabolo</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Mailand</dc:subject>
+    
+    
+      <dc:subject>Italien</dc:subject>
+    
+    
+      <dc:subject>Zeitgenössische Kunst</dc:subject>
+    
+    
+      <dc:subject>Internationale Kunst</dc:subject>
+    
+    
+      <dc:subject>Papier</dc:subject>
+    
+    <dc:date>2010-10-18T15:33:15Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/franz-franz/siena-stadtmauer">
+    <title>Siena Stadtmauer</title>
+    <link>http://www.rwma.ch/kunstwerke/franz-franz/siena-stadtmauer</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Zürich</dc:subject>
+    
+    
+      <dc:subject>Italien</dc:subject>
+    
+    
+      <dc:subject>Zeichnung</dc:subject>
+    
+    
+      <dc:subject>Stadt</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-10-16T14:07:42Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/ignaz-epper/ischia">
+    <title>Ischia</title>
+    <link>http://www.rwma.ch/kunstwerke/ignaz-epper/ischia</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>St. Gallen</dc:subject>
+    
+    
+      <dc:subject>Tessin</dc:subject>
+    
+    
+      <dc:subject>Ascona</dc:subject>
+    
+    
+      <dc:subject>Schweizer Expressionismus</dc:subject>
+    
+    
+      <dc:subject>Italien</dc:subject>
+    
+    
+      <dc:subject>Thurgau</dc:subject>
+    
+    
+      <dc:subject>Aquarell</dc:subject>
+    
+    
+      <dc:subject>Ostschweiz</dc:subject>
+    
+    
+      <dc:subject>Landschaft</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-10-15T18:40:00Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/mario-comensoli/ohne-titel-stehender-jungling-italiener">
+    <title>ohne Titel (Stehender Jüngling / Italiener)</title>
+    <link>http://www.rwma.ch/kunstwerke/mario-comensoli/ohne-titel-stehender-jungling-italiener</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Tessin</dc:subject>
+    
+    
+      <dc:subject>Zürich</dc:subject>
+    
+    
+      <dc:subject>Italien</dc:subject>
+    
+    
+      <dc:subject>Zeichnung</dc:subject>
+    
+    
+      <dc:subject>Knabe</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-10-15T16:04:38Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/natale-sapone">
+    <title>Natale Sapone</title>
+    <link>http://www.rwma.ch/kunstwerke/natale-sapone</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Konstruktive Kunst</dc:subject>
+    
+    
+      <dc:subject>Italien</dc:subject>
+    
+    
+      <dc:subject>Thurgau</dc:subject>
+    
+    
+      <dc:subject>Konkrete Kunst</dc:subject>
+    
+    
+      <dc:subject>Ostschweiz</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-10-11T16:40:10Z</dc:date>
+    <dc:type>Künstler</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/tullio-pericoli">
+    <title>Tullio Pericoli</title>
+    <link>http://www.rwma.ch/kunstwerke/tullio-pericoli</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Oper</dc:subject>
+    
+    
+      <dc:subject>Italien</dc:subject>
+    
+    
+      <dc:subject>Karikatur</dc:subject>
+    
+    
+      <dc:subject>Internationale Kunst</dc:subject>
+    
+    
+      <dc:subject>Cartoon</dc:subject>
+    
+    <dc:date>2010-10-11T16:25:00Z</dc:date>
+    <dc:type>Künstler</dc:type>
+  </item>
+
+
+
+
+</rdf:RDF>

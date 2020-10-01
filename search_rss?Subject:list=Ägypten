@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+
+
+
+
+    
+
+
+
+<channel rdf:about="http://www.rwma.ch/search_rss">
+  <title>WELTI modern art</title>
+  <link>http://www.rwma.ch</link>
+
+  <description>
+    
+            These are the search results for the query, showing results 1 to 3.
+        
+  </description>
+
+  
+
+  
+
+  <image rdf:resource="http://www.rwma.ch/logo.png"/>
+
+  <items>
+    <rdf:Seq>
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/margo-veillon/ohne-titel-auf-dem-markt-menschen-pferd-mit-fohlen"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/margo-veillon/ohne-titel-auf-dem-markt-menschen"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/margo-veillon"/>
+      
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/margo-veillon/ohne-titel-auf-dem-markt-menschen-pferd-mit-fohlen">
+    <title>ohne Titel / Auf dem Markt - Menschen, Pferd mit Fohlen)</title>
+    <link>http://www.rwma.ch/kunstwerke/margo-veillon/ohne-titel-auf-dem-markt-menschen-pferd-mit-fohlen</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Mensch</dc:subject>
+    
+    
+      <dc:subject>Fohlen</dc:subject>
+    
+    
+      <dc:subject>Schnäppchen</dc:subject>
+    
+    
+      <dc:subject>Zeichnung</dc:subject>
+    
+    
+      <dc:subject>Tier</dc:subject>
+    
+    
+      <dc:subject>Markt</dc:subject>
+    
+    
+      <dc:subject>Kairo</dc:subject>
+    
+    
+      <dc:subject>Pferd</dc:subject>
+    
+    
+      <dc:subject>Ägypten</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-10-19T16:20:54Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/margo-veillon/ohne-titel-auf-dem-markt-menschen">
+    <title>ohne Titel (Auf dem Markt - Menschen)</title>
+    <link>http://www.rwma.ch/kunstwerke/margo-veillon/ohne-titel-auf-dem-markt-menschen</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Mensch</dc:subject>
+    
+    
+      <dc:subject>Schnäppchen</dc:subject>
+    
+    
+      <dc:subject>Zeichnung</dc:subject>
+    
+    
+      <dc:subject>Markt</dc:subject>
+    
+    
+      <dc:subject>Kairo</dc:subject>
+    
+    
+      <dc:subject>Ägypten</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-10-19T16:20:00Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/margo-veillon">
+    <title>Margo Veillon</title>
+    <link>http://www.rwma.ch/kunstwerke/margo-veillon</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Ägypten</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    
+      <dc:subject>Kairo</dc:subject>
+    
+    <dc:date>2010-10-13T15:28:50Z</dc:date>
+    <dc:type>Künstler</dc:type>
+  </item>
+
+
+
+
+</rdf:RDF>

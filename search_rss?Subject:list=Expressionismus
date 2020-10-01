@@ -1,0 +1,715 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+
+
+
+
+    
+
+
+
+<channel rdf:about="http://www.rwma.ch/search_rss">
+  <title>WELTI modern art</title>
+  <link>http://www.rwma.ch</link>
+
+  <description>
+    
+            These are the search results for the query, showing results 1 to 15.
+        
+  </description>
+
+  
+
+  
+
+  <image rdf:resource="http://www.rwma.ch/logo.png"/>
+
+  <items>
+    <rdf:Seq>
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/helen-dahm/kopf"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/helen-dahm/narzisse"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/helen-dahm/weisse-lilien-vor-roter-burg-1"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/helen-dahm/maria-und-elisabeth"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/helen-dahm/waldeinsamkeit"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/helen-dahm/fruhling-zwei-gestalten-hinter-strauch"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/hermann-scherer"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/walter-helbig"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/walter-kurt-wiemken"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/fritz-pauli/familie"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/fritz-pauli/ohne-titel-sudlicher-garten"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/fritz-pauli"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/ignaz-epper/ohne-titel-paar"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/ignaz-epper"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/eduard-gubler"/>
+      
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/helen-dahm/kopf">
+    <title>Kopf</title>
+    <link>http://www.rwma.ch/kunstwerke/helen-dahm/kopf</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Zürichsee</dc:subject>
+    
+    
+      <dc:subject>Zürich</dc:subject>
+    
+    
+      <dc:subject>Hinterglas</dc:subject>
+    
+    
+      <dc:subject>Kopf</dc:subject>
+    
+    
+      <dc:subject>Thurgau</dc:subject>
+    
+    
+      <dc:subject>Expressionismus</dc:subject>
+    
+    
+      <dc:subject>Religion</dc:subject>
+    
+    
+      <dc:subject>Engel</dc:subject>
+    
+    
+      <dc:subject>Madonna</dc:subject>
+    
+    
+      <dc:subject>Ostschweiz</dc:subject>
+    
+    
+      <dc:subject>Schweizer Expressionismus</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-11-09T18:32:41Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/helen-dahm/narzisse">
+    <title>Narzisse</title>
+    <link>http://www.rwma.ch/kunstwerke/helen-dahm/narzisse</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Hinterglas</dc:subject>
+    
+    
+      <dc:subject>Blume</dc:subject>
+    
+    
+      <dc:subject>Zürich</dc:subject>
+    
+    
+      <dc:subject>Thurgau</dc:subject>
+    
+    
+      <dc:subject>Expressionismus</dc:subject>
+    
+    
+      <dc:subject>Zürichsee</dc:subject>
+    
+    
+      <dc:subject>Ostschweiz</dc:subject>
+    
+    
+      <dc:subject>Schweizer Expressionismus</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-11-09T18:29:17Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/helen-dahm/weisse-lilien-vor-roter-burg-1">
+    <title>Weisse Lilien vor roter Burg</title>
+    <link>http://www.rwma.ch/kunstwerke/helen-dahm/weisse-lilien-vor-roter-burg-1</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Zürichsee</dc:subject>
+    
+    
+      <dc:subject>Burg</dc:subject>
+    
+    
+      <dc:subject>Blume</dc:subject>
+    
+    
+      <dc:subject>Zürich</dc:subject>
+    
+    
+      <dc:subject>Thurgau</dc:subject>
+    
+    
+      <dc:subject>Expressionismus</dc:subject>
+    
+    
+      <dc:subject>Lilie</dc:subject>
+    
+    
+      <dc:subject>Ostschweiz</dc:subject>
+    
+    
+      <dc:subject>Schweizer Expressionismus</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-11-09T18:25:55Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/helen-dahm/maria-und-elisabeth">
+    <title>Maria und Elisabeth</title>
+    <link>http://www.rwma.ch/kunstwerke/helen-dahm/maria-und-elisabeth</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Zürichsee</dc:subject>
+    
+    
+      <dc:subject>Schweizer Expressionist</dc:subject>
+    
+    
+      <dc:subject>Zürich</dc:subject>
+    
+    
+      <dc:subject>Thurgau</dc:subject>
+    
+    
+      <dc:subject>Expressionismus</dc:subject>
+    
+    
+      <dc:subject>Ostschweiz</dc:subject>
+    
+    
+      <dc:subject>Schweizer Expressionismus</dc:subject>
+    
+    
+      <dc:subject>Regligion</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-11-09T17:05:24Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/helen-dahm/waldeinsamkeit">
+    <title>Waldeinsamkeit</title>
+    <link>http://www.rwma.ch/kunstwerke/helen-dahm/waldeinsamkeit</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Radierung</dc:subject>
+    
+    
+      <dc:subject>Schweizer Expressionist</dc:subject>
+    
+    
+      <dc:subject>Zürich</dc:subject>
+    
+    
+      <dc:subject>Natur</dc:subject>
+    
+    
+      <dc:subject>Landschaft</dc:subject>
+    
+    
+      <dc:subject>Graphik</dc:subject>
+    
+    
+      <dc:subject>Thurgau</dc:subject>
+    
+    
+      <dc:subject>Expressionismus</dc:subject>
+    
+    
+      <dc:subject>Ostschweiz</dc:subject>
+    
+    
+      <dc:subject>Schweizer Expressionismus</dc:subject>
+    
+    
+      <dc:subject>Wald</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-11-09T17:02:07Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/helen-dahm/fruhling-zwei-gestalten-hinter-strauch">
+    <title>Frühling (Zwei Gestalten hinter Strauch)</title>
+    <link>http://www.rwma.ch/kunstwerke/helen-dahm/fruhling-zwei-gestalten-hinter-strauch</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Zürichsee</dc:subject>
+    
+    
+      <dc:subject>Schweizer Expressionist</dc:subject>
+    
+    
+      <dc:subject>Zürich</dc:subject>
+    
+    
+      <dc:subject>Linolschnitt</dc:subject>
+    
+    
+      <dc:subject>Graphik</dc:subject>
+    
+    
+      <dc:subject>Thurgau</dc:subject>
+    
+    
+      <dc:subject>Expressionismus</dc:subject>
+    
+    
+      <dc:subject>Ostschweiz</dc:subject>
+    
+    
+      <dc:subject>Schweizer Expressionismus</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-11-09T16:57:47Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/hermann-scherer">
+    <title>Hermann Scherer</title>
+    <link>http://www.rwma.ch/kunstwerke/hermann-scherer</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Tessin</dc:subject>
+    
+    
+      <dc:subject>Basel</dc:subject>
+    
+    
+      <dc:subject>Expressionismus</dc:subject>
+    
+    
+      <dc:subject>Schweizer Expressionismus</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-10-13T14:48:11Z</dc:date>
+    <dc:type>Künstler</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/walter-helbig">
+    <title>Walter Helbig</title>
+    <link>http://www.rwma.ch/kunstwerke/walter-helbig</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Tessin</dc:subject>
+    
+    
+      <dc:subject>Ascona</dc:subject>
+    
+    
+      <dc:subject>Deutschland</dc:subject>
+    
+    
+      <dc:subject>Expressionismus</dc:subject>
+    
+    
+      <dc:subject>Deutscher Expressionismus</dc:subject>
+    
+    
+      <dc:subject>Internationale Kunst</dc:subject>
+    
+    
+      <dc:subject>Schweizer Expressionismus</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-09-30T20:09:09Z</dc:date>
+    <dc:type>Künstler</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/walter-kurt-wiemken">
+    <title>Walter Kurt Wiemken</title>
+    <link>http://www.rwma.ch/kunstwerke/walter-kurt-wiemken</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Figuration</dc:subject>
+    
+    
+      <dc:subject>Tessin</dc:subject>
+    
+    
+      <dc:subject>Basel</dc:subject>
+    
+    
+      <dc:subject>Expressionismus</dc:subject>
+    
+    
+      <dc:subject>Surrealismus</dc:subject>
+    
+    
+      <dc:subject>Schweizer Expressionismus</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-09-28T09:30:15Z</dc:date>
+    <dc:type>Künstler</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/fritz-pauli/familie">
+    <title>Familie</title>
+    <link>http://www.rwma.ch/kunstwerke/fritz-pauli/familie</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Figuration</dc:subject>
+    
+    
+      <dc:subject>Radierung</dc:subject>
+    
+    
+      <dc:subject>Kaltnadel</dc:subject>
+    
+    
+      <dc:subject>Mensch</dc:subject>
+    
+    
+      <dc:subject>Graphik</dc:subject>
+    
+    
+      <dc:subject>Expressionismus</dc:subject>
+    
+    
+      <dc:subject>Frau</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    
+      <dc:subject>Tessin</dc:subject>
+    
+    
+      <dc:subject>Portrait</dc:subject>
+    
+    
+      <dc:subject>Bern</dc:subject>
+    
+    
+      <dc:subject>Schweizer Expressionismus</dc:subject>
+    
+    
+      <dc:subject>Mann</dc:subject>
+    
+    <dc:date>2010-09-28T09:25:00Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/fritz-pauli/ohne-titel-sudlicher-garten">
+    <title>ohne Titel (südlicher Garten)</title>
+    <link>http://www.rwma.ch/kunstwerke/fritz-pauli/ohne-titel-sudlicher-garten</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Tessin</dc:subject>
+    
+    
+      <dc:subject>Pflanzen</dc:subject>
+    
+    
+      <dc:subject>Blumen</dc:subject>
+    
+    
+      <dc:subject>Zeichnung</dc:subject>
+    
+    
+      <dc:subject>Expressionismus</dc:subject>
+    
+    
+      <dc:subject>Aquarell</dc:subject>
+    
+    
+      <dc:subject>Garten</dc:subject>
+    
+    
+      <dc:subject>Bern</dc:subject>
+    
+    
+      <dc:subject>Schweizer Expressionismus</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-09-28T09:15:00Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/fritz-pauli">
+    <title>Fritz Pauli</title>
+    <link>http://www.rwma.ch/kunstwerke/fritz-pauli</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Figuration</dc:subject>
+    
+    
+      <dc:subject>Tessin</dc:subject>
+    
+    
+      <dc:subject>Expressionismus</dc:subject>
+    
+    
+      <dc:subject>Bern</dc:subject>
+    
+    
+      <dc:subject>Schweizer Expressionismus</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-09-28T09:15:00Z</dc:date>
+    <dc:type>Künstler</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/ignaz-epper/ohne-titel-paar">
+    <title>ohne Titel (Paar)</title>
+    <link>http://www.rwma.ch/kunstwerke/ignaz-epper/ohne-titel-paar</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Figuration</dc:subject>
+    
+    
+      <dc:subject>St. Gallen</dc:subject>
+    
+    
+      <dc:subject>Ascona</dc:subject>
+    
+    
+      <dc:subject>Zürich</dc:subject>
+    
+    
+      <dc:subject>Mensch</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    
+      <dc:subject>Thurgau</dc:subject>
+    
+    
+      <dc:subject>Zeichnung</dc:subject>
+    
+    
+      <dc:subject>Expressionismus</dc:subject>
+    
+    
+      <dc:subject>Frau</dc:subject>
+    
+    
+      <dc:subject>Kohle</dc:subject>
+    
+    
+      <dc:subject>Tessin</dc:subject>
+    
+    
+      <dc:subject>Ostschweiz</dc:subject>
+    
+    
+      <dc:subject>Schweizer Expressionismus</dc:subject>
+    
+    
+      <dc:subject>Mann</dc:subject>
+    
+    <dc:date>2010-09-28T09:10:00Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/ignaz-epper">
+    <title>Ignaz Epper</title>
+    <link>http://www.rwma.ch/kunstwerke/ignaz-epper</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Figuration</dc:subject>
+    
+    
+      <dc:subject>St. Gallen</dc:subject>
+    
+    
+      <dc:subject>Ascona</dc:subject>
+    
+    
+      <dc:subject>Zürich</dc:subject>
+    
+    
+      <dc:subject>Mensch</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    
+      <dc:subject>Thurgau</dc:subject>
+    
+    
+      <dc:subject>Expressionismus</dc:subject>
+    
+    
+      <dc:subject>Frau</dc:subject>
+    
+    
+      <dc:subject>Kohle</dc:subject>
+    
+    
+      <dc:subject>Tessin</dc:subject>
+    
+    
+      <dc:subject>Ostschweiz</dc:subject>
+    
+    
+      <dc:subject>Schweizer Expressionismus</dc:subject>
+    
+    
+      <dc:subject>Mann</dc:subject>
+    
+    <dc:date>2010-09-28T09:10:00Z</dc:date>
+    <dc:type>Künstler</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/eduard-gubler">
+    <title>Eduard Gubler</title>
+    <link>http://www.rwma.ch/kunstwerke/eduard-gubler</link>
+    <description>Bruder von Max und Ernst Gubler.</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Zürich</dc:subject>
+    
+    
+      <dc:subject>Neue Sachlichkeit</dc:subject>
+    
+    
+      <dc:subject>Uri</dc:subject>
+    
+    
+      <dc:subject>Expressionismus</dc:subject>
+    
+    
+      <dc:subject>Schweizer Expressionismus</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-09-28T09:00:00Z</dc:date>
+    <dc:type>Künstler</dc:type>
+  </item>
+
+
+
+
+</rdf:RDF>

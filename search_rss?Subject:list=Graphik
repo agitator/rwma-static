@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+
+
+
+
+    
+
+
+
+<channel rdf:about="http://www.rwma.ch/search_rss">
+  <title>WELTI modern art</title>
+  <link>http://www.rwma.ch</link>
+
+  <description>
+    
+            These are the search results for the query, showing results 1 to 15.
+        
+  </description>
+
+  
+
+  
+
+  <image rdf:resource="http://www.rwma.ch/logo.png"/>
+
+  <items>
+    <rdf:Seq>
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/georges-rouault/au-pays-de-la-soif-et-de-la-peur"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/joseph-beuys/schwefelpostkarte"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/joseph-beuys/ddr-tuten-gut-gekauft"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/joseph-beuys/gut-bedient-ddr-tute"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/joseph-beuys/diebstahl"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/joseph-beuys/belfast"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/joseph-beuys/3-tonnen-edition-2"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/joseph-beuys/3-tonnen-edition-1"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/joseph-beuys/3-tonnen-edition"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/joseph-beuys/auguren"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/joseph-beuys/hasengrab-ii"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/joseph-beuys/post-card"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/joseph-beuys/der-spiegel"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/joseph-beuys/filpostkarte"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/joseph-beuys/heidelberg"/>
+      
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/georges-rouault/au-pays-de-la-soif-et-de-la-peur">
+    <title>Au pays de la soif et de la peur</title>
+    <link>http://www.rwma.ch/kunstwerke/georges-rouault/au-pays-de-la-soif-et-de-la-peur</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Internationale Kunst</dc:subject>
+    
+    
+      <dc:subject>Graphik</dc:subject>
+    
+    
+      <dc:subject>Frankreich</dc:subject>
+    
+    <dc:date>2010-11-11T10:00:00Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/joseph-beuys/schwefelpostkarte">
+    <title>Schwefelpostkarte</title>
+    <link>http://www.rwma.ch/kunstwerke/joseph-beuys/schwefelpostkarte</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Multiple</dc:subject>
+    
+    
+      <dc:subject>Auflageobjekt</dc:subject>
+    
+    
+      <dc:subject>Graphik</dc:subject>
+    
+    
+      <dc:subject>Deutschland</dc:subject>
+    
+    
+      <dc:subject>Schnäppchen</dc:subject>
+    
+    
+      <dc:subject>Internationale Kunst</dc:subject>
+    
+    
+      <dc:subject>Krefeld</dc:subject>
+    
+    <dc:date>2010-11-10T15:44:05Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/joseph-beuys/ddr-tuten-gut-gekauft">
+    <title>DDR-Tüten - Gut gekauft</title>
+    <link>http://www.rwma.ch/kunstwerke/joseph-beuys/ddr-tuten-gut-gekauft</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Multiple</dc:subject>
+    
+    
+      <dc:subject>Auflageobjekt</dc:subject>
+    
+    
+      <dc:subject>Graphik</dc:subject>
+    
+    
+      <dc:subject>Deutschland</dc:subject>
+    
+    
+      <dc:subject>Schnäppchen</dc:subject>
+    
+    
+      <dc:subject>Internationale Kunst</dc:subject>
+    
+    
+      <dc:subject>Krefeld</dc:subject>
+    
+    <dc:date>2010-11-10T15:42:17Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/joseph-beuys/gut-bedient-ddr-tute">
+    <title>Gut bedient - DDR-Tüte</title>
+    <link>http://www.rwma.ch/kunstwerke/joseph-beuys/gut-bedient-ddr-tute</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Multiple</dc:subject>
+    
+    
+      <dc:subject>Auflageobjekt</dc:subject>
+    
+    
+      <dc:subject>Graphik</dc:subject>
+    
+    
+      <dc:subject>Deutschland</dc:subject>
+    
+    
+      <dc:subject>Schnäppchen</dc:subject>
+    
+    
+      <dc:subject>Internationale Kunst</dc:subject>
+    
+    
+      <dc:subject>Krefeld</dc:subject>
+    
+    <dc:date>2010-11-10T15:40:41Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/joseph-beuys/diebstahl">
+    <title>Diebstahl</title>
+    <link>http://www.rwma.ch/kunstwerke/joseph-beuys/diebstahl</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Multiple</dc:subject>
+    
+    
+      <dc:subject>Auflageobjekt</dc:subject>
+    
+    
+      <dc:subject>Graphik</dc:subject>
+    
+    
+      <dc:subject>Deutschland</dc:subject>
+    
+    
+      <dc:subject>Schnäppchen</dc:subject>
+    
+    
+      <dc:subject>Internationale Kunst</dc:subject>
+    
+    
+      <dc:subject>Krefeld</dc:subject>
+    
+    <dc:date>2010-11-10T15:38:26Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/joseph-beuys/belfast">
+    <title>Belfast</title>
+    <link>http://www.rwma.ch/kunstwerke/joseph-beuys/belfast</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Multiple</dc:subject>
+    
+    
+      <dc:subject>Auflageobjekt</dc:subject>
+    
+    
+      <dc:subject>Graphik</dc:subject>
+    
+    
+      <dc:subject>Deutschland</dc:subject>
+    
+    
+      <dc:subject>Schnäppchen</dc:subject>
+    
+    
+      <dc:subject>Internationale Kunst</dc:subject>
+    
+    
+      <dc:subject>Krefeld</dc:subject>
+    
+    <dc:date>2010-11-10T15:35:55Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/joseph-beuys/3-tonnen-edition-2">
+    <title>3-Tonnen-Edition</title>
+    <link>http://www.rwma.ch/kunstwerke/joseph-beuys/3-tonnen-edition-2</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Multiple</dc:subject>
+    
+    
+      <dc:subject>Auflageobjekt</dc:subject>
+    
+    
+      <dc:subject>Graphik</dc:subject>
+    
+    
+      <dc:subject>Deutschland</dc:subject>
+    
+    
+      <dc:subject>Schnäppchen</dc:subject>
+    
+    
+      <dc:subject>Internationale Kunst</dc:subject>
+    
+    
+      <dc:subject>Krefeld</dc:subject>
+    
+    <dc:date>2010-11-10T15:34:03Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/joseph-beuys/3-tonnen-edition-1">
+    <title>3-Tonnen-Edition </title>
+    <link>http://www.rwma.ch/kunstwerke/joseph-beuys/3-tonnen-edition-1</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Multiple</dc:subject>
+    
+    
+      <dc:subject>Auflageobjekt</dc:subject>
+    
+    
+      <dc:subject>Graphik</dc:subject>
+    
+    
+      <dc:subject>Deutschland</dc:subject>
+    
+    
+      <dc:subject>Schnäppchen</dc:subject>
+    
+    
+      <dc:subject>Internationale Kunst</dc:subject>
+    
+    
+      <dc:subject>Krefeld</dc:subject>
+    
+    <dc:date>2010-11-10T15:32:01Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/joseph-beuys/3-tonnen-edition">
+    <title>3-Tonnen-Edition</title>
+    <link>http://www.rwma.ch/kunstwerke/joseph-beuys/3-tonnen-edition</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Multiple</dc:subject>
+    
+    
+      <dc:subject>Auflageobjekt</dc:subject>
+    
+    
+      <dc:subject>Graphik</dc:subject>
+    
+    
+      <dc:subject>Deutschland</dc:subject>
+    
+    
+      <dc:subject>Schnäppchen</dc:subject>
+    
+    
+      <dc:subject>Internationale Kunst</dc:subject>
+    
+    
+      <dc:subject>Krefeld</dc:subject>
+    
+    <dc:date>2010-11-10T15:30:03Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/joseph-beuys/auguren">
+    <title>Auguren</title>
+    <link>http://www.rwma.ch/kunstwerke/joseph-beuys/auguren</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Multiple</dc:subject>
+    
+    
+      <dc:subject>Auflageobjekt</dc:subject>
+    
+    
+      <dc:subject>Graphik</dc:subject>
+    
+    
+      <dc:subject>Deutschland</dc:subject>
+    
+    
+      <dc:subject>Schnäppchen</dc:subject>
+    
+    
+      <dc:subject>Internationale Kunst</dc:subject>
+    
+    
+      <dc:subject>Krefeld</dc:subject>
+    
+    <dc:date>2010-11-10T15:27:41Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/joseph-beuys/hasengrab-ii">
+    <title>Hasengrab II</title>
+    <link>http://www.rwma.ch/kunstwerke/joseph-beuys/hasengrab-ii</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Multiple</dc:subject>
+    
+    
+      <dc:subject>Auflageobjekt</dc:subject>
+    
+    
+      <dc:subject>Graphik</dc:subject>
+    
+    
+      <dc:subject>Deutschland</dc:subject>
+    
+    
+      <dc:subject>Schnäppchen</dc:subject>
+    
+    
+      <dc:subject>Internationale Kunst</dc:subject>
+    
+    
+      <dc:subject>Krefeld</dc:subject>
+    
+    <dc:date>2010-11-10T15:25:42Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/joseph-beuys/post-card">
+    <title>Post Card</title>
+    <link>http://www.rwma.ch/kunstwerke/joseph-beuys/post-card</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Multiple</dc:subject>
+    
+    
+      <dc:subject>Auflageobjekt</dc:subject>
+    
+    
+      <dc:subject>Graphik</dc:subject>
+    
+    
+      <dc:subject>Deutschland</dc:subject>
+    
+    
+      <dc:subject>Schnäppchen</dc:subject>
+    
+    
+      <dc:subject>Internationale Kunst</dc:subject>
+    
+    
+      <dc:subject>Krefeld</dc:subject>
+    
+    <dc:date>2010-11-10T15:23:32Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/joseph-beuys/der-spiegel">
+    <title>Der Spiegel</title>
+    <link>http://www.rwma.ch/kunstwerke/joseph-beuys/der-spiegel</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Multiple</dc:subject>
+    
+    
+      <dc:subject>Auflageobjekt</dc:subject>
+    
+    
+      <dc:subject>Graphik</dc:subject>
+    
+    
+      <dc:subject>Deutschland</dc:subject>
+    
+    
+      <dc:subject>Schnäppchen</dc:subject>
+    
+    
+      <dc:subject>Internationale Kunst</dc:subject>
+    
+    
+      <dc:subject>Krefeld</dc:subject>
+    
+    <dc:date>2010-11-10T15:21:42Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/joseph-beuys/filpostkarte">
+    <title>Filpostkarte</title>
+    <link>http://www.rwma.ch/kunstwerke/joseph-beuys/filpostkarte</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Multiple</dc:subject>
+    
+    
+      <dc:subject>Auflageobjekt</dc:subject>
+    
+    
+      <dc:subject>Graphik</dc:subject>
+    
+    
+      <dc:subject>Deutschland</dc:subject>
+    
+    
+      <dc:subject>Schnäppchen</dc:subject>
+    
+    
+      <dc:subject>Internationale Kunst</dc:subject>
+    
+    
+      <dc:subject>Krefeld</dc:subject>
+    
+    <dc:date>2010-11-10T15:19:46Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/joseph-beuys/heidelberg">
+    <title>Heidelberg</title>
+    <link>http://www.rwma.ch/kunstwerke/joseph-beuys/heidelberg</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Multiple</dc:subject>
+    
+    
+      <dc:subject>Auflageobjekt</dc:subject>
+    
+    
+      <dc:subject>Graphik</dc:subject>
+    
+    
+      <dc:subject>Deutschland</dc:subject>
+    
+    
+      <dc:subject>Schnäppchen</dc:subject>
+    
+    
+      <dc:subject>Internationale Kunst</dc:subject>
+    
+    
+      <dc:subject>Krefeld</dc:subject>
+    
+    <dc:date>2010-11-10T15:17:45Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+
+
+</rdf:RDF>

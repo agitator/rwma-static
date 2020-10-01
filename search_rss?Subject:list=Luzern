@@ -1,0 +1,730 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+
+
+
+
+    
+
+
+
+<channel rdf:about="http://www.rwma.ch/search_rss">
+  <title>WELTI modern art</title>
+  <link>http://www.rwma.ch</link>
+
+  <description>
+    
+            These are the search results for the query, showing results 1 to 15.
+        
+  </description>
+
+  
+
+  
+
+  <image rdf:resource="http://www.rwma.ch/logo.png"/>
+
+  <items>
+    <rdf:Seq>
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/sonja-sekula/verstandigung-des-engels-mit-dem-vogel-.."/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/sonja-sekula/ohne-titel-grun-blau-grau-sand"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/sonja-sekula/bewegung"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/sonja-sekula/einzelne-flachenbegegnung"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/sonja-sekula/verzeichneter-wildbach"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/sonja-sekula/ohne-titel-kafig-roter-punkt"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/sonja-sekula/treeowners-barktellers-grun"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/sonja-sekula/ohne-titel-gold-rot"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/sonja-sekula/offering"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/sonja-sekula/ohne-titel-ockergelb"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/sonja-sekula/ohne-titel-hellblau"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/sonja-sekula/ohne-titel-rot-herz"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/sonja-sekula/ohne-titel-archaische-formen-in-naturfarben"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/sonja-sekula/attempt-or-the-horse-knight-..."/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/peter-roesch/ohne-titel-fliehende-menschen"/>
+      
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/sonja-sekula/verstandigung-des-engels-mit-dem-vogel-..">
+    <title>Verständigung des Engels mit dem Vogel, …</title>
+    <link>http://www.rwma.ch/kunstwerke/sonja-sekula/verstandigung-des-engels-mit-dem-vogel-..</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Innerschweiz</dc:subject>
+    
+    
+      <dc:subject>Zürich</dc:subject>
+    
+    
+      <dc:subject>USA</dc:subject>
+    
+    
+      <dc:subject>Text</dc:subject>
+    
+    
+      <dc:subject>Poesie</dc:subject>
+    
+    
+      <dc:subject>Literatur</dc:subject>
+    
+    
+      <dc:subject>Zeichnung</dc:subject>
+    
+    
+      <dc:subject>Luzern</dc:subject>
+    
+    
+      <dc:subject>Amerika</dc:subject>
+    
+    
+      <dc:subject>New York</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-10-19T15:59:24Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/sonja-sekula/ohne-titel-grun-blau-grau-sand">
+    <title>ohne Titel (Grün-Blau-Grau, Sand)</title>
+    <link>http://www.rwma.ch/kunstwerke/sonja-sekula/ohne-titel-grun-blau-grau-sand</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Innerschweiz</dc:subject>
+    
+    
+      <dc:subject>Zürich</dc:subject>
+    
+    
+      <dc:subject>USA</dc:subject>
+    
+    
+      <dc:subject>Poesie</dc:subject>
+    
+    
+      <dc:subject>Literatur</dc:subject>
+    
+    
+      <dc:subject>Zeichnung</dc:subject>
+    
+    
+      <dc:subject>Luzern</dc:subject>
+    
+    
+      <dc:subject>Amerika</dc:subject>
+    
+    
+      <dc:subject>New York</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-10-19T15:57:01Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/sonja-sekula/bewegung">
+    <title>Bewegung</title>
+    <link>http://www.rwma.ch/kunstwerke/sonja-sekula/bewegung</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Innerschweiz</dc:subject>
+    
+    
+      <dc:subject>Zürich</dc:subject>
+    
+    
+      <dc:subject>USA</dc:subject>
+    
+    
+      <dc:subject>Poesie</dc:subject>
+    
+    
+      <dc:subject>Literatur</dc:subject>
+    
+    
+      <dc:subject>Zeichnung</dc:subject>
+    
+    
+      <dc:subject>Luzern</dc:subject>
+    
+    
+      <dc:subject>Amerika</dc:subject>
+    
+    
+      <dc:subject>New York</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-10-19T15:55:00Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/sonja-sekula/einzelne-flachenbegegnung">
+    <title>"Einzelne Flächenbegegnung"</title>
+    <link>http://www.rwma.ch/kunstwerke/sonja-sekula/einzelne-flachenbegegnung</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Innerschweiz</dc:subject>
+    
+    
+      <dc:subject>Zürich</dc:subject>
+    
+    
+      <dc:subject>USA</dc:subject>
+    
+    
+      <dc:subject>Tusche</dc:subject>
+    
+    
+      <dc:subject>Poesie</dc:subject>
+    
+    
+      <dc:subject>Literatur</dc:subject>
+    
+    
+      <dc:subject>Zeichnung</dc:subject>
+    
+    
+      <dc:subject>Luzern</dc:subject>
+    
+    
+      <dc:subject>Amerika</dc:subject>
+    
+    
+      <dc:subject>New York</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-10-19T15:55:00Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/sonja-sekula/verzeichneter-wildbach">
+    <title>"verzeichneter" Wildbach</title>
+    <link>http://www.rwma.ch/kunstwerke/sonja-sekula/verzeichneter-wildbach</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Innerschweiz</dc:subject>
+    
+    
+      <dc:subject>USA</dc:subject>
+    
+    
+      <dc:subject>Zürich</dc:subject>
+    
+    
+      <dc:subject>Poesie</dc:subject>
+    
+    
+      <dc:subject>Blau</dc:subject>
+    
+    
+      <dc:subject>Literatur</dc:subject>
+    
+    
+      <dc:subject>Bach</dc:subject>
+    
+    
+      <dc:subject>Luzern</dc:subject>
+    
+    
+      <dc:subject>Amerika</dc:subject>
+    
+    
+      <dc:subject>Zeichnung</dc:subject>
+    
+    
+      <dc:subject>Aquarell</dc:subject>
+    
+    
+      <dc:subject>Wasser</dc:subject>
+    
+    
+      <dc:subject>New York</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-10-19T15:50:00Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/sonja-sekula/ohne-titel-kafig-roter-punkt">
+    <title>ohne Titel (Käfig / roter Punkt)</title>
+    <link>http://www.rwma.ch/kunstwerke/sonja-sekula/ohne-titel-kafig-roter-punkt</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Innerschweiz</dc:subject>
+    
+    
+      <dc:subject>Zürich</dc:subject>
+    
+    
+      <dc:subject>USA</dc:subject>
+    
+    
+      <dc:subject>Poesie</dc:subject>
+    
+    
+      <dc:subject>Literatur</dc:subject>
+    
+    
+      <dc:subject>Zeichnung</dc:subject>
+    
+    
+      <dc:subject>Luzern</dc:subject>
+    
+    
+      <dc:subject>Amerika</dc:subject>
+    
+    
+      <dc:subject>New York</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-10-19T15:49:56Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/sonja-sekula/treeowners-barktellers-grun">
+    <title>"Treeowners", Barktellers (grün)</title>
+    <link>http://www.rwma.ch/kunstwerke/sonja-sekula/treeowners-barktellers-grun</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Innerschweiz</dc:subject>
+    
+    
+      <dc:subject>Zürich</dc:subject>
+    
+    
+      <dc:subject>USA</dc:subject>
+    
+    
+      <dc:subject>Poesie</dc:subject>
+    
+    
+      <dc:subject>Literatur</dc:subject>
+    
+    
+      <dc:subject>Zeichnung</dc:subject>
+    
+    
+      <dc:subject>Luzern</dc:subject>
+    
+    
+      <dc:subject>Amerika</dc:subject>
+    
+    
+      <dc:subject>New York</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-10-19T15:48:31Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/sonja-sekula/ohne-titel-gold-rot">
+    <title>ohne Titel (Gold / Rot)</title>
+    <link>http://www.rwma.ch/kunstwerke/sonja-sekula/ohne-titel-gold-rot</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Innerschweiz</dc:subject>
+    
+    
+      <dc:subject>Zürich</dc:subject>
+    
+    
+      <dc:subject>USA</dc:subject>
+    
+    
+      <dc:subject>Poesie</dc:subject>
+    
+    
+      <dc:subject>Literatur</dc:subject>
+    
+    
+      <dc:subject>Zeichnung</dc:subject>
+    
+    
+      <dc:subject>Luzern</dc:subject>
+    
+    
+      <dc:subject>Amerika</dc:subject>
+    
+    
+      <dc:subject>New York</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-10-19T15:45:00Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/sonja-sekula/offering">
+    <title>Offering</title>
+    <link>http://www.rwma.ch/kunstwerke/sonja-sekula/offering</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Innerschweiz</dc:subject>
+    
+    
+      <dc:subject>Zürich</dc:subject>
+    
+    
+      <dc:subject>USA</dc:subject>
+    
+    
+      <dc:subject>Poesie</dc:subject>
+    
+    
+      <dc:subject>Literatur</dc:subject>
+    
+    
+      <dc:subject>Zeichnung</dc:subject>
+    
+    
+      <dc:subject>Luzern</dc:subject>
+    
+    
+      <dc:subject>Amerika</dc:subject>
+    
+    
+      <dc:subject>New York</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-10-19T15:36:02Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/sonja-sekula/ohne-titel-ockergelb">
+    <title>ohne Titel (Ockergelb)</title>
+    <link>http://www.rwma.ch/kunstwerke/sonja-sekula/ohne-titel-ockergelb</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Innerschweiz</dc:subject>
+    
+    
+      <dc:subject>Zürich</dc:subject>
+    
+    
+      <dc:subject>USA</dc:subject>
+    
+    
+      <dc:subject>Poesie</dc:subject>
+    
+    
+      <dc:subject>Literatur</dc:subject>
+    
+    
+      <dc:subject>Zeichnung</dc:subject>
+    
+    
+      <dc:subject>Luzern</dc:subject>
+    
+    
+      <dc:subject>Amerika</dc:subject>
+    
+    
+      <dc:subject>New York</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-10-19T15:35:00Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/sonja-sekula/ohne-titel-hellblau">
+    <title>ohne Titel (Hellblau)</title>
+    <link>http://www.rwma.ch/kunstwerke/sonja-sekula/ohne-titel-hellblau</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Innerschweiz</dc:subject>
+    
+    
+      <dc:subject>Zürich</dc:subject>
+    
+    
+      <dc:subject>USA</dc:subject>
+    
+    
+      <dc:subject>Poesie</dc:subject>
+    
+    
+      <dc:subject>Literatur</dc:subject>
+    
+    
+      <dc:subject>Zeichnung</dc:subject>
+    
+    
+      <dc:subject>Luzern</dc:subject>
+    
+    
+      <dc:subject>Amerika</dc:subject>
+    
+    
+      <dc:subject>New York</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-10-19T15:34:33Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/sonja-sekula/ohne-titel-rot-herz">
+    <title>ohne Titel (Rot-Herz)</title>
+    <link>http://www.rwma.ch/kunstwerke/sonja-sekula/ohne-titel-rot-herz</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Innerschweiz</dc:subject>
+    
+    
+      <dc:subject>Zürich</dc:subject>
+    
+    
+      <dc:subject>USA</dc:subject>
+    
+    
+      <dc:subject>Poesie</dc:subject>
+    
+    
+      <dc:subject>Literatur</dc:subject>
+    
+    
+      <dc:subject>Zeichnung</dc:subject>
+    
+    
+      <dc:subject>Luzern</dc:subject>
+    
+    
+      <dc:subject>Amerika</dc:subject>
+    
+    
+      <dc:subject>New York</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-10-19T15:31:11Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/sonja-sekula/ohne-titel-archaische-formen-in-naturfarben">
+    <title>ohne Titel (Archaische Formen in Naturfarben)</title>
+    <link>http://www.rwma.ch/kunstwerke/sonja-sekula/ohne-titel-archaische-formen-in-naturfarben</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Innerschweiz</dc:subject>
+    
+    
+      <dc:subject>USA</dc:subject>
+    
+    
+      <dc:subject>Zürich</dc:subject>
+    
+    
+      <dc:subject>Collage</dc:subject>
+    
+    
+      <dc:subject>Luzern</dc:subject>
+    
+    
+      <dc:subject>New York</dc:subject>
+    
+    
+      <dc:subject>Amerika</dc:subject>
+    
+    
+      <dc:subject>Papier</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-10-19T15:25:23Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/sonja-sekula/attempt-or-the-horse-knight-...">
+    <title>"attempt, or the Horse-Knight ..."</title>
+    <link>http://www.rwma.ch/kunstwerke/sonja-sekula/attempt-or-the-horse-knight-...</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Innerschweiz</dc:subject>
+    
+    
+      <dc:subject>USA</dc:subject>
+    
+    
+      <dc:subject>Zürich</dc:subject>
+    
+    
+      <dc:subject>Poesie</dc:subject>
+    
+    
+      <dc:subject>Literatur</dc:subject>
+    
+    
+      <dc:subject>Luzern</dc:subject>
+    
+    
+      <dc:subject>New York</dc:subject>
+    
+    
+      <dc:subject>Amerika</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-10-19T14:54:30Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/peter-roesch/ohne-titel-fliehende-menschen">
+    <title>ohne Titel (Fliehende Menschen)</title>
+    <link>http://www.rwma.ch/kunstwerke/peter-roesch/ohne-titel-fliehende-menschen</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Zeicnnung</dc:subject>
+    
+    
+      <dc:subject>Innerschweiz</dc:subject>
+    
+    
+      <dc:subject>Mensch</dc:subject>
+    
+    
+      <dc:subject>Luzern</dc:subject>
+    
+    
+      <dc:subject>Gouache</dc:subject>
+    
+    
+      <dc:subject>Figur</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-10-19T14:12:22Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+
+
+</rdf:RDF>

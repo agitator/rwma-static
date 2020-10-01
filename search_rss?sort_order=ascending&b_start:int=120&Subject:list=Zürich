@@ -1,0 +1,547 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+
+
+
+
+    
+
+
+
+<channel rdf:about="http://www.rwma.ch/search_rss">
+  <title>WELTI modern art</title>
+  <link>http://www.rwma.ch</link>
+
+  <description>
+    
+            These are the search results for the query, showing results 121 to 132.
+        
+  </description>
+
+  
+
+  
+
+  <image rdf:resource="http://www.rwma.ch/logo.png"/>
+
+  <items>
+    <rdf:Seq>
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/willi-hartung/mutter-und-kind-im-paradies"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/ignaz-epper/ohne-titel-paar"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/ignaz-epper"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/eduard-gubler"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/helen-dahm/ohne-titel-gefangener-vogel-und-betrachterin"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/helen-dahm/ohne-titel-stilleben-mit-gefassen-und-fruchten"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/valentin-magaro/ohne-titel-mann"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/valentin-magaro/ohne-titel-vier-figuren-im-raum"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/sigismund-righini/ohne-titel-selbstportrait-als-edelmann"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/franz-franz"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/sonja-sekula"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/helen-dahm"/>
+      
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/willi-hartung/mutter-und-kind-im-paradies">
+    <title>Mutter und Kind im Paradies</title>
+    <link>http://www.rwma.ch/kunstwerke/willi-hartung/mutter-und-kind-im-paradies</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Figuration</dc:subject>
+    
+    
+      <dc:subject>Kind</dc:subject>
+    
+    
+      <dc:subject>Paradies</dc:subject>
+    
+    
+      <dc:subject>Zürich</dc:subject>
+    
+    
+      <dc:subject>Gold</dc:subject>
+    
+    
+      <dc:subject>Mensch</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    
+      <dc:subject>Blumen</dc:subject>
+    
+    
+      <dc:subject>Mutter</dc:subject>
+    
+    
+      <dc:subject>Zeichnung</dc:subject>
+    
+    
+      <dc:subject>Thurgau</dc:subject>
+    
+    
+      <dc:subject>Frau</dc:subject>
+    
+    
+      <dc:subject>Aquarell</dc:subject>
+    
+    
+      <dc:subject>Garten</dc:subject>
+    
+    
+      <dc:subject>Ostschweiz</dc:subject>
+    
+    
+      <dc:subject>Naive Kunst</dc:subject>
+    
+    <dc:date>2010-09-28T16:30:00Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/ignaz-epper/ohne-titel-paar">
+    <title>ohne Titel (Paar)</title>
+    <link>http://www.rwma.ch/kunstwerke/ignaz-epper/ohne-titel-paar</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Figuration</dc:subject>
+    
+    
+      <dc:subject>St. Gallen</dc:subject>
+    
+    
+      <dc:subject>Ascona</dc:subject>
+    
+    
+      <dc:subject>Zürich</dc:subject>
+    
+    
+      <dc:subject>Mensch</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    
+      <dc:subject>Thurgau</dc:subject>
+    
+    
+      <dc:subject>Zeichnung</dc:subject>
+    
+    
+      <dc:subject>Expressionismus</dc:subject>
+    
+    
+      <dc:subject>Frau</dc:subject>
+    
+    
+      <dc:subject>Kohle</dc:subject>
+    
+    
+      <dc:subject>Tessin</dc:subject>
+    
+    
+      <dc:subject>Ostschweiz</dc:subject>
+    
+    
+      <dc:subject>Schweizer Expressionismus</dc:subject>
+    
+    
+      <dc:subject>Mann</dc:subject>
+    
+    <dc:date>2010-09-28T09:10:00Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/ignaz-epper">
+    <title>Ignaz Epper</title>
+    <link>http://www.rwma.ch/kunstwerke/ignaz-epper</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Figuration</dc:subject>
+    
+    
+      <dc:subject>St. Gallen</dc:subject>
+    
+    
+      <dc:subject>Ascona</dc:subject>
+    
+    
+      <dc:subject>Zürich</dc:subject>
+    
+    
+      <dc:subject>Mensch</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    
+      <dc:subject>Thurgau</dc:subject>
+    
+    
+      <dc:subject>Expressionismus</dc:subject>
+    
+    
+      <dc:subject>Frau</dc:subject>
+    
+    
+      <dc:subject>Kohle</dc:subject>
+    
+    
+      <dc:subject>Tessin</dc:subject>
+    
+    
+      <dc:subject>Ostschweiz</dc:subject>
+    
+    
+      <dc:subject>Schweizer Expressionismus</dc:subject>
+    
+    
+      <dc:subject>Mann</dc:subject>
+    
+    <dc:date>2010-09-28T09:10:00Z</dc:date>
+    <dc:type>Künstler</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/eduard-gubler">
+    <title>Eduard Gubler</title>
+    <link>http://www.rwma.ch/kunstwerke/eduard-gubler</link>
+    <description>Bruder von Max und Ernst Gubler.</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Zürich</dc:subject>
+    
+    
+      <dc:subject>Neue Sachlichkeit</dc:subject>
+    
+    
+      <dc:subject>Uri</dc:subject>
+    
+    
+      <dc:subject>Expressionismus</dc:subject>
+    
+    
+      <dc:subject>Schweizer Expressionismus</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-09-28T09:00:00Z</dc:date>
+    <dc:type>Künstler</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/helen-dahm/ohne-titel-gefangener-vogel-und-betrachterin">
+    <title>ohne Titel (Gefangener Vogel und Betrachterin)</title>
+    <link>http://www.rwma.ch/kunstwerke/helen-dahm/ohne-titel-gefangener-vogel-und-betrachterin</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Figuration</dc:subject>
+    
+    
+      <dc:subject>Graphik</dc:subject>
+    
+    
+      <dc:subject>Zürich</dc:subject>
+    
+    
+      <dc:subject>Vogel</dc:subject>
+    
+    
+      <dc:subject>Mensch</dc:subject>
+    
+    
+      <dc:subject>Lithographie</dc:subject>
+    
+    
+      <dc:subject>Blumen</dc:subject>
+    
+    
+      <dc:subject>Thurgau</dc:subject>
+    
+    
+      <dc:subject>Zürichsee</dc:subject>
+    
+    
+      <dc:subject>Frau</dc:subject>
+    
+    
+      <dc:subject>Tier</dc:subject>
+    
+    
+      <dc:subject>Ostschweiz</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-09-28T08:50:00Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/helen-dahm/ohne-titel-stilleben-mit-gefassen-und-fruchten">
+    <title>ohne Titel (Stilleben mit Gefässen und Früchten)</title>
+    <link>http://www.rwma.ch/kunstwerke/helen-dahm/ohne-titel-stilleben-mit-gefassen-und-fruchten</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Figuration</dc:subject>
+    
+    
+      <dc:subject>Zürich</dc:subject>
+    
+    
+      <dc:subject>Früchte</dc:subject>
+    
+    
+      <dc:subject>Thurgau</dc:subject>
+    
+    
+      <dc:subject>Zürichsee</dc:subject>
+    
+    
+      <dc:subject>Ostschweiz</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-09-28T08:40:00Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/valentin-magaro/ohne-titel-mann">
+    <title>ohne Titel (Mann)</title>
+    <link>http://www.rwma.ch/kunstwerke/valentin-magaro/ohne-titel-mann</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Figuration</dc:subject>
+    
+    
+      <dc:subject>Zürich</dc:subject>
+    
+    
+      <dc:subject>Thurgau</dc:subject>
+    
+    
+      <dc:subject>Zeichnung</dc:subject>
+    
+    
+      <dc:subject>Mann</dc:subject>
+    
+    
+      <dc:subject>Zeitgenössische Kunst</dc:subject>
+    
+    
+      <dc:subject>Junge Kunst</dc:subject>
+    
+    
+      <dc:subject>Ostschweiz</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-09-28T08:25:00Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/valentin-magaro/ohne-titel-vier-figuren-im-raum">
+    <title>ohne Titel (Vier Figuren im Raum)</title>
+    <link>http://www.rwma.ch/kunstwerke/valentin-magaro/ohne-titel-vier-figuren-im-raum</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Zürich</dc:subject>
+    
+    
+      <dc:subject>Thurgau</dc:subject>
+    
+    
+      <dc:subject>Zeichnung</dc:subject>
+    
+    
+      <dc:subject>Akt</dc:subject>
+    
+    
+      <dc:subject>Frau</dc:subject>
+    
+    
+      <dc:subject>Zeitgenössische Kunst</dc:subject>
+    
+    
+      <dc:subject>Junge Kunst</dc:subject>
+    
+    
+      <dc:subject>Ostschweiz</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-09-28T08:05:00Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/sigismund-righini/ohne-titel-selbstportrait-als-edelmann">
+    <title>ohne Titel (Selbstportrait als Edelmann)</title>
+    <link>http://www.rwma.ch/kunstwerke/sigismund-righini/ohne-titel-selbstportrait-als-edelmann</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Zürich</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-09-27T19:00:00Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/franz-franz">
+    <title>Franz Fischer</title>
+    <link>http://www.rwma.ch/kunstwerke/franz-franz</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Figuration</dc:subject>
+    
+    
+      <dc:subject>Zürich</dc:subject>
+    
+    
+      <dc:subject>Skulptur</dc:subject>
+    
+    
+      <dc:subject>Bronze</dc:subject>
+    
+    
+      <dc:subject>Tier</dc:subject>
+    
+    
+      <dc:subject>Bildhauer</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-09-27T18:50:00Z</dc:date>
+    <dc:type>Künstler</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/sonja-sekula">
+    <title>Sonja Sekula</title>
+    <link>http://www.rwma.ch/kunstwerke/sonja-sekula</link>
+    <description>Schweizer Kunst
+Frau
+Künstlerin
+Amerikanischer Expressionismus</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Innerschweiz</dc:subject>
+    
+    
+      <dc:subject>Zürich</dc:subject>
+    
+    
+      <dc:subject>Luzern</dc:subject>
+    
+    
+      <dc:subject>Abstrakte Malerei</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-08-31T20:45:00Z</dc:date>
+    <dc:type>Künstler</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/helen-dahm">
+    <title>Helen Dahm</title>
+    <link>http://www.rwma.ch/kunstwerke/helen-dahm</link>
+    <description>Eine der bedeutendsten Künstlerinnen der Schweiz des 20. Jahrhunderts. Im Frühwerk Anklänge an den Jugendstil und Symbolismus. Schon früh kommt sie mit dem Deutschen Expressionismus in Berührung und lernt in München auch Gabriele Münter und Wassily Kandinsky kennen. Das expressionistische Element bleibt vortan ihre Domaine. </description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Zürich</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-03-01T17:00:00Z</dc:date>
+    <dc:type>Künstler</dc:type>
+  </item>
+
+
+
+
+</rdf:RDF>

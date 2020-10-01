@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+
+
+
+
+    
+
+
+
+<channel rdf:about="http://www.rwma.ch/search_rss">
+  <title>WELTI modern art</title>
+  <link>http://www.rwma.ch</link>
+
+  <description>
+    
+            These are the search results for the query, showing results 1 to 15.
+        
+  </description>
+
+  
+
+  
+
+  <image rdf:resource="http://www.rwma.ch/logo.png"/>
+
+  <items>
+    <rdf:Seq>
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/georges-rouault/au-pays-de-la-soif-et-de-la-peur"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/edouard-vuillard/le-jardin-devant-latelier"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/wilfrid-moser/picadilly"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/rolf-iseli/malerei-2"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/gottfried-honegger/ohne-titel"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/adolf-herbst/dunkler-kopf"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/paul-gavarni/karikatur-le-carnaval-a-paris-no-9"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/paul-gavarni/karikatur-les-enfans-terrible-no-15"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/paul-gavarni/karikatur-le-parfait-creancier-no-9"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/leonor-fini/la-gourmandise"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/raoul-dufy/fontain-a-vence"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/honore-daumier/karikatur-actualites-ingrate-patrie-tu-nauras-pas-mon-oeuvre"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/honore-daumier/karikatur-les-carottes-carotte-du-restaurant-no-3-no-584"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/honore-daumier/karikatur-le-narcisse-du-dix-decembre"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/jean-cocteau/portrait-eines-mannes"/>
+      
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/georges-rouault/au-pays-de-la-soif-et-de-la-peur">
+    <title>Au pays de la soif et de la peur</title>
+    <link>http://www.rwma.ch/kunstwerke/georges-rouault/au-pays-de-la-soif-et-de-la-peur</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Internationale Kunst</dc:subject>
+    
+    
+      <dc:subject>Graphik</dc:subject>
+    
+    
+      <dc:subject>Frankreich</dc:subject>
+    
+    <dc:date>2010-11-11T10:00:00Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/edouard-vuillard/le-jardin-devant-latelier">
+    <title>Le jardin devant l'atelier</title>
+    <link>http://www.rwma.ch/kunstwerke/edouard-vuillard/le-jardin-devant-latelier</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Frankreich</dc:subject>
+    
+    
+      <dc:subject>Lithographie</dc:subject>
+    
+    
+      <dc:subject>Graphik</dc:subject>
+    
+    
+      <dc:subject>Garten</dc:subject>
+    
+    
+      <dc:subject>Nabis</dc:subject>
+    
+    
+      <dc:subject>Internationale Kunst</dc:subject>
+    
+    <dc:date>2010-10-20T12:59:47Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/wilfrid-moser/picadilly">
+    <title>Picadilly</title>
+    <link>http://www.rwma.ch/kunstwerke/wilfrid-moser/picadilly</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Tessin</dc:subject>
+    
+    
+      <dc:subject>Grossbritannien</dc:subject>
+    
+    
+      <dc:subject>Informel</dc:subject>
+    
+    
+      <dc:subject>Zürich</dc:subject>
+    
+    
+      <dc:subject>Frankreich</dc:subject>
+    
+    
+      <dc:subject>Paris</dc:subject>
+    
+    
+      <dc:subject>Tachismus</dc:subject>
+    
+    
+      <dc:subject>Abstrakte Malerei</dc:subject>
+    
+    
+      <dc:subject>London</dc:subject>
+    
+    
+      <dc:subject>Internationale Kunst</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-10-19T09:50:00Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/rolf-iseli/malerei-2">
+    <title>Malerei 2</title>
+    <link>http://www.rwma.ch/kunstwerke/rolf-iseli/malerei-2</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Informel</dc:subject>
+    
+    
+      <dc:subject>Frankreich</dc:subject>
+    
+    
+      <dc:subject>Documenta</dc:subject>
+    
+    
+      <dc:subject>Bern</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-10-19T08:02:28Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/gottfried-honegger/ohne-titel">
+    <title>ohne Titel</title>
+    <link>http://www.rwma.ch/kunstwerke/gottfried-honegger/ohne-titel</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Konstruktive Kunst</dc:subject>
+    
+    
+      <dc:subject>Zürich</dc:subject>
+    
+    
+      <dc:subject>Frankreich</dc:subject>
+    
+    
+      <dc:subject>Konkrete Kunst</dc:subject>
+    
+    
+      <dc:subject>Internationale Kunst</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-10-19T07:50:00Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/adolf-herbst/dunkler-kopf">
+    <title>Dunkler Kopf</title>
+    <link>http://www.rwma.ch/kunstwerke/adolf-herbst/dunkler-kopf</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Zürich</dc:subject>
+    
+    
+      <dc:subject>Frankreich</dc:subject>
+    
+    
+      <dc:subject>Paris</dc:subject>
+    
+    
+      <dc:subject>Kopf</dc:subject>
+    
+    
+      <dc:subject>Luzern</dc:subject>
+    
+    
+      <dc:subject>Innerschweizer Kunst</dc:subject>
+    
+    
+      <dc:subject>Portrait</dc:subject>
+    
+    
+      <dc:subject>Gemälde</dc:subject>
+    
+    <dc:date>2010-10-18T18:06:34Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/paul-gavarni/karikatur-le-carnaval-a-paris-no-9">
+    <title>Karikatur - Le carnaval à Paris - No 9</title>
+    <link>http://www.rwma.ch/kunstwerke/paul-gavarni/karikatur-le-carnaval-a-paris-no-9</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Frankreich</dc:subject>
+    
+    
+      <dc:subject>Paris</dc:subject>
+    
+    
+      <dc:subject>Graphik</dc:subject>
+    
+    
+      <dc:subject>Schnäppchen</dc:subject>
+    
+    
+      <dc:subject>Internationale Kunst</dc:subject>
+    
+    
+      <dc:subject>Karikatur</dc:subject>
+    
+    
+      <dc:subject>19. Jahrhundert</dc:subject>
+    
+    <dc:date>2010-10-16T14:30:00Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/paul-gavarni/karikatur-les-enfans-terrible-no-15">
+    <title>Karikatur - Les enfans terrible - No 15</title>
+    <link>http://www.rwma.ch/kunstwerke/paul-gavarni/karikatur-les-enfans-terrible-no-15</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Frankreich</dc:subject>
+    
+    
+      <dc:subject>Mensch</dc:subject>
+    
+    
+      <dc:subject>Kinder</dc:subject>
+    
+    
+      <dc:subject>Paris</dc:subject>
+    
+    
+      <dc:subject>Internationale Kunst</dc:subject>
+    
+    
+      <dc:subject>Karikatur</dc:subject>
+    
+    
+      <dc:subject>19. Jahrhundert</dc:subject>
+    
+    <dc:date>2010-10-16T14:25:00Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/paul-gavarni/karikatur-le-parfait-creancier-no-9">
+    <title>Karikatur - Le Parfait créancier - No 9</title>
+    <link>http://www.rwma.ch/kunstwerke/paul-gavarni/karikatur-le-parfait-creancier-no-9</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Frankreich</dc:subject>
+    
+    
+      <dc:subject>Graphik</dc:subject>
+    
+    
+      <dc:subject>Internationale Kunst</dc:subject>
+    
+    
+      <dc:subject>Karikatur</dc:subject>
+    
+    
+      <dc:subject>19. Jahrhundert</dc:subject>
+    
+    <dc:date>2010-10-16T14:20:00Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/leonor-fini/la-gourmandise">
+    <title>La Gourmandise</title>
+    <link>http://www.rwma.ch/kunstwerke/leonor-fini/la-gourmandise</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Frankreich</dc:subject>
+    
+    
+      <dc:subject>Paris</dc:subject>
+    
+    
+      <dc:subject>Poesie</dc:subject>
+    
+    
+      <dc:subject>Literatur</dc:subject>
+    
+    
+      <dc:subject>Zeichnung</dc:subject>
+    
+    
+      <dc:subject>Tusche</dc:subject>
+    
+    
+      <dc:subject>Kinder</dc:subject>
+    
+    
+      <dc:subject>Mensch</dc:subject>
+    
+    
+      <dc:subject>Internationale Kunst</dc:subject>
+    
+    <dc:date>2010-10-16T14:04:11Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/raoul-dufy/fontain-a-vence">
+    <title>Fontain à Vence</title>
+    <link>http://www.rwma.ch/kunstwerke/raoul-dufy/fontain-a-vence</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Radierung</dc:subject>
+    
+    
+      <dc:subject>Südfrankreich</dc:subject>
+    
+    
+      <dc:subject>Graphik</dc:subject>
+    
+    
+      <dc:subject>Frankreich</dc:subject>
+    
+    
+      <dc:subject>Brunnen</dc:subject>
+    
+    
+      <dc:subject>Internationale Kunst</dc:subject>
+    
+    
+      <dc:subject>Provence</dc:subject>
+    
+    <dc:date>2010-10-15T18:31:59Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/honore-daumier/karikatur-actualites-ingrate-patrie-tu-nauras-pas-mon-oeuvre">
+    <title>Karikatur - Actualités - Ingrate patrie, tu n'auras pas mon oeuvre!</title>
+    <link>http://www.rwma.ch/kunstwerke/honore-daumier/karikatur-actualites-ingrate-patrie-tu-nauras-pas-mon-oeuvre</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Frankreich</dc:subject>
+    
+    
+      <dc:subject>Graphik</dc:subject>
+    
+    
+      <dc:subject>Internationale Kunst</dc:subject>
+    
+    
+      <dc:subject>Karikatur</dc:subject>
+    
+    
+      <dc:subject>19. Jahrhundert</dc:subject>
+    
+    <dc:date>2010-10-15T18:25:00Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/honore-daumier/karikatur-les-carottes-carotte-du-restaurant-no-3-no-584">
+    <title>Karikatur - Les carottes - Carotte du restaurant - No 3 - No 584</title>
+    <link>http://www.rwma.ch/kunstwerke/honore-daumier/karikatur-les-carottes-carotte-du-restaurant-no-3-no-584</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Frankreich</dc:subject>
+    
+    
+      <dc:subject>Zeitung</dc:subject>
+    
+    
+      <dc:subject>Internationale Kunst</dc:subject>
+    
+    
+      <dc:subject>Karikatur</dc:subject>
+    
+    
+      <dc:subject>19. Jahrhundert</dc:subject>
+    
+    <dc:date>2010-10-15T18:20:00Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/honore-daumier/karikatur-le-narcisse-du-dix-decembre">
+    <title>Karikatur - Le Narcisse du dix Décembre</title>
+    <link>http://www.rwma.ch/kunstwerke/honore-daumier/karikatur-le-narcisse-du-dix-decembre</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Frankreich</dc:subject>
+    
+    
+      <dc:subject>Graphik</dc:subject>
+    
+    
+      <dc:subject>Schnäppchen</dc:subject>
+    
+    
+      <dc:subject>Internationale Kunst</dc:subject>
+    
+    
+      <dc:subject>Karikatur</dc:subject>
+    
+    
+      <dc:subject>19. Jahrhundert</dc:subject>
+    
+    <dc:date>2010-10-15T18:20:00Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/jean-cocteau/portrait-eines-mannes">
+    <title>Portrait eines Mannes</title>
+    <link>http://www.rwma.ch/kunstwerke/jean-cocteau/portrait-eines-mannes</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Frankreich</dc:subject>
+    
+    
+      <dc:subject>Schnäppchen</dc:subject>
+    
+    
+      <dc:subject>Internationale Kunst</dc:subject>
+    
+    
+      <dc:subject>Keramik</dc:subject>
+    
+    
+      <dc:subject>Mann</dc:subject>
+    
+    <dc:date>2010-10-15T16:00:33Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+
+
+</rdf:RDF>

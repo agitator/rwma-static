@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+
+
+
+
+    
+
+
+
+<channel rdf:about="http://www.rwma.ch/search_rss">
+  <title>WELTI modern art</title>
+  <link>http://www.rwma.ch</link>
+
+  <description>
+    
+            These are the search results for the query, showing results 1 to 3.
+        
+  </description>
+
+  
+
+  
+
+  <image rdf:resource="http://www.rwma.ch/logo.png"/>
+
+  <items>
+    <rdf:Seq>
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/mario-comensoli/ohne-titel-kopf"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/mario-comensoli/ohne-titel-stehender-jungling-italiener"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/alfonso-albacete"/>
+      
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/mario-comensoli/ohne-titel-kopf">
+    <title>ohne Titel (Kopf)</title>
+    <link>http://www.rwma.ch/kunstwerke/mario-comensoli/ohne-titel-kopf</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Tessin</dc:subject>
+    
+    
+      <dc:subject>Zürich</dc:subject>
+    
+    
+      <dc:subject>Schnäppchen</dc:subject>
+    
+    
+      <dc:subject>Zeichnung</dc:subject>
+    
+    
+      <dc:subject>Knabe</dc:subject>
+    
+    
+      <dc:subject>Mann</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-10-15T16:43:34Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/mario-comensoli/ohne-titel-stehender-jungling-italiener">
+    <title>ohne Titel (Stehender Jüngling / Italiener)</title>
+    <link>http://www.rwma.ch/kunstwerke/mario-comensoli/ohne-titel-stehender-jungling-italiener</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Tessin</dc:subject>
+    
+    
+      <dc:subject>Zürich</dc:subject>
+    
+    
+      <dc:subject>Italien</dc:subject>
+    
+    
+      <dc:subject>Zeichnung</dc:subject>
+    
+    
+      <dc:subject>Knabe</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-10-15T16:04:38Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/alfonso-albacete">
+    <title>Alfonso Albacete</title>
+    <link>http://www.rwma.ch/kunstwerke/alfonso-albacete</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Kind</dc:subject>
+    
+    
+      <dc:subject>Kinder</dc:subject>
+    
+    
+      <dc:subject>Knabe</dc:subject>
+    
+    
+      <dc:subject>Spanien</dc:subject>
+    
+    
+      <dc:subject>Internationale Kunst</dc:subject>
+    
+    
+      <dc:subject>Pastell</dc:subject>
+    
+    <dc:date>2010-09-30T18:20:00Z</dc:date>
+    <dc:type>Künstler</dc:type>
+  </item>
+
+
+
+
+</rdf:RDF>

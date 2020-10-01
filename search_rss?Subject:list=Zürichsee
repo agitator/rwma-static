@@ -1,0 +1,661 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+
+
+
+
+    
+
+
+
+<channel rdf:about="http://www.rwma.ch/search_rss">
+  <title>WELTI modern art</title>
+  <link>http://www.rwma.ch</link>
+
+  <description>
+    
+            These are the search results for the query, showing results 1 to 15.
+        
+  </description>
+
+  
+
+  
+
+  <image rdf:resource="http://www.rwma.ch/logo.png"/>
+
+  <items>
+    <rdf:Seq>
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/helen-dahm/kopf"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/helen-dahm/narzisse"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/helen-dahm/weisse-lilien-vor-roter-burg-1"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/helen-dahm/ohne-titel-blumen"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/helen-dahm/tanz"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/helen-dahm/ohne-titel-gekronter-christus"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/helen-dahm/ohne-titel-tachistische-arbeit"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/helen-dahm/maria-und-elisabeth"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/helen-dahm/fruhling-zwei-gestalten-hinter-strauch"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/schiess-gustav-adrian-tobias-tobias/landschaft"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/alfred-bleuler/ohne-titel-1"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/alfred-bleuler/ohne-titel"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/raffael-benazzi/no.-1664"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/schiess-gustav-adrian-tobias-tobias"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/helen-dahm/ohne-titel-gefangener-vogel-und-betrachterin"/>
+      
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/helen-dahm/kopf">
+    <title>Kopf</title>
+    <link>http://www.rwma.ch/kunstwerke/helen-dahm/kopf</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Zürichsee</dc:subject>
+    
+    
+      <dc:subject>Zürich</dc:subject>
+    
+    
+      <dc:subject>Hinterglas</dc:subject>
+    
+    
+      <dc:subject>Kopf</dc:subject>
+    
+    
+      <dc:subject>Thurgau</dc:subject>
+    
+    
+      <dc:subject>Expressionismus</dc:subject>
+    
+    
+      <dc:subject>Religion</dc:subject>
+    
+    
+      <dc:subject>Engel</dc:subject>
+    
+    
+      <dc:subject>Madonna</dc:subject>
+    
+    
+      <dc:subject>Ostschweiz</dc:subject>
+    
+    
+      <dc:subject>Schweizer Expressionismus</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-11-09T18:32:41Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/helen-dahm/narzisse">
+    <title>Narzisse</title>
+    <link>http://www.rwma.ch/kunstwerke/helen-dahm/narzisse</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Hinterglas</dc:subject>
+    
+    
+      <dc:subject>Blume</dc:subject>
+    
+    
+      <dc:subject>Zürich</dc:subject>
+    
+    
+      <dc:subject>Thurgau</dc:subject>
+    
+    
+      <dc:subject>Expressionismus</dc:subject>
+    
+    
+      <dc:subject>Zürichsee</dc:subject>
+    
+    
+      <dc:subject>Ostschweiz</dc:subject>
+    
+    
+      <dc:subject>Schweizer Expressionismus</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-11-09T18:29:17Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/helen-dahm/weisse-lilien-vor-roter-burg-1">
+    <title>Weisse Lilien vor roter Burg</title>
+    <link>http://www.rwma.ch/kunstwerke/helen-dahm/weisse-lilien-vor-roter-burg-1</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Zürichsee</dc:subject>
+    
+    
+      <dc:subject>Burg</dc:subject>
+    
+    
+      <dc:subject>Blume</dc:subject>
+    
+    
+      <dc:subject>Zürich</dc:subject>
+    
+    
+      <dc:subject>Thurgau</dc:subject>
+    
+    
+      <dc:subject>Expressionismus</dc:subject>
+    
+    
+      <dc:subject>Lilie</dc:subject>
+    
+    
+      <dc:subject>Ostschweiz</dc:subject>
+    
+    
+      <dc:subject>Schweizer Expressionismus</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-11-09T18:25:55Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/helen-dahm/ohne-titel-blumen">
+    <title>ohne Titel (Blumen)</title>
+    <link>http://www.rwma.ch/kunstwerke/helen-dahm/ohne-titel-blumen</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Blume</dc:subject>
+    
+    
+      <dc:subject>Zürich</dc:subject>
+    
+    
+      <dc:subject>Lithographie</dc:subject>
+    
+    
+      <dc:subject>Graphik</dc:subject>
+    
+    
+      <dc:subject>Thurgau</dc:subject>
+    
+    
+      <dc:subject>Schnäppchen</dc:subject>
+    
+    
+      <dc:subject>Zürichsee</dc:subject>
+    
+    
+      <dc:subject>Ostschweiz</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-11-09T18:16:06Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/helen-dahm/tanz">
+    <title>Tanz</title>
+    <link>http://www.rwma.ch/kunstwerke/helen-dahm/tanz</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Allegorie</dc:subject>
+    
+    
+      <dc:subject>Zürich</dc:subject>
+    
+    
+      <dc:subject>Graphik</dc:subject>
+    
+    
+      <dc:subject>Thurgau</dc:subject>
+    
+    
+      <dc:subject>Zürichsee</dc:subject>
+    
+    
+      <dc:subject>Bewegung</dc:subject>
+    
+    
+      <dc:subject>Radierung</dc:subject>
+    
+    
+      <dc:subject>Tanz</dc:subject>
+    
+    
+      <dc:subject>Frau</dc:subject>
+    
+    
+      <dc:subject>Ostschweiz</dc:subject>
+    
+    <dc:date>2010-11-09T18:12:58Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/helen-dahm/ohne-titel-gekronter-christus">
+    <title>ohne Titel (Gekrönter Christus)</title>
+    <link>http://www.rwma.ch/kunstwerke/helen-dahm/ohne-titel-gekronter-christus</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Zürich</dc:subject>
+    
+    
+      <dc:subject>Thurgau</dc:subject>
+    
+    
+      <dc:subject>Zürichsee</dc:subject>
+    
+    
+      <dc:subject>Religion</dc:subject>
+    
+    
+      <dc:subject>Ostschweiz</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-11-09T17:15:00Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/helen-dahm/ohne-titel-tachistische-arbeit">
+    <title>ohne Titel (tachistische Arbeit)</title>
+    <link>http://www.rwma.ch/kunstwerke/helen-dahm/ohne-titel-tachistische-arbeit</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Zürichsee</dc:subject>
+    
+    
+      <dc:subject>Informel</dc:subject>
+    
+    
+      <dc:subject>Zürich</dc:subject>
+    
+    
+      <dc:subject>Blau</dc:subject>
+    
+    
+      <dc:subject>Thurgau</dc:subject>
+    
+    
+      <dc:subject>Tachismus</dc:subject>
+    
+    
+      <dc:subject>Ostschweiz</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-11-09T17:10:00Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/helen-dahm/maria-und-elisabeth">
+    <title>Maria und Elisabeth</title>
+    <link>http://www.rwma.ch/kunstwerke/helen-dahm/maria-und-elisabeth</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Zürichsee</dc:subject>
+    
+    
+      <dc:subject>Schweizer Expressionist</dc:subject>
+    
+    
+      <dc:subject>Zürich</dc:subject>
+    
+    
+      <dc:subject>Thurgau</dc:subject>
+    
+    
+      <dc:subject>Expressionismus</dc:subject>
+    
+    
+      <dc:subject>Ostschweiz</dc:subject>
+    
+    
+      <dc:subject>Schweizer Expressionismus</dc:subject>
+    
+    
+      <dc:subject>Regligion</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-11-09T17:05:24Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/helen-dahm/fruhling-zwei-gestalten-hinter-strauch">
+    <title>Frühling (Zwei Gestalten hinter Strauch)</title>
+    <link>http://www.rwma.ch/kunstwerke/helen-dahm/fruhling-zwei-gestalten-hinter-strauch</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Zürichsee</dc:subject>
+    
+    
+      <dc:subject>Schweizer Expressionist</dc:subject>
+    
+    
+      <dc:subject>Zürich</dc:subject>
+    
+    
+      <dc:subject>Linolschnitt</dc:subject>
+    
+    
+      <dc:subject>Graphik</dc:subject>
+    
+    
+      <dc:subject>Thurgau</dc:subject>
+    
+    
+      <dc:subject>Expressionismus</dc:subject>
+    
+    
+      <dc:subject>Ostschweiz</dc:subject>
+    
+    
+      <dc:subject>Schweizer Expressionismus</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-11-09T16:57:47Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/schiess-gustav-adrian-tobias-tobias/landschaft">
+    <title>Landschaft</title>
+    <link>http://www.rwma.ch/kunstwerke/schiess-gustav-adrian-tobias-tobias/landschaft</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Zürich</dc:subject>
+    
+    
+      <dc:subject>Schnäppchen</dc:subject>
+    
+    
+      <dc:subject>Zeichnung</dc:subject>
+    
+    
+      <dc:subject>Zürichsee</dc:subject>
+    
+    
+      <dc:subject>Aquarell</dc:subject>
+    
+    
+      <dc:subject>Landschaft</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-10-19T16:14:29Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/alfred-bleuler/ohne-titel-1">
+    <title>ohne Titel</title>
+    <link>http://www.rwma.ch/kunstwerke/alfred-bleuler/ohne-titel-1</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Zürichsee</dc:subject>
+    
+    
+      <dc:subject>Zürich</dc:subject>
+    
+    
+      <dc:subject>Konstruktive Kunst</dc:subject>
+    
+    
+      <dc:subject>Graphik</dc:subject>
+    
+    
+      <dc:subject>Schnäppchen</dc:subject>
+    
+    
+      <dc:subject>Konkrete Kunst</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-10-15T14:53:11Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/alfred-bleuler/ohne-titel">
+    <title>ohne Titel</title>
+    <link>http://www.rwma.ch/kunstwerke/alfred-bleuler/ohne-titel</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Zürichsee</dc:subject>
+    
+    
+      <dc:subject>Zürich</dc:subject>
+    
+    
+      <dc:subject>Konstruktive Kunst</dc:subject>
+    
+    
+      <dc:subject>Graphik</dc:subject>
+    
+    
+      <dc:subject>Schnäppchen</dc:subject>
+    
+    
+      <dc:subject>Konkrete Kunst</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-10-15T14:48:23Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/raffael-benazzi/no.-1664">
+    <title>No. 1664</title>
+    <link>http://www.rwma.ch/kunstwerke/raffael-benazzi/no.-1664</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Tessin</dc:subject>
+    
+    
+      <dc:subject>Zürichsee</dc:subject>
+    
+    
+      <dc:subject>Zürich</dc:subject>
+    
+    
+      <dc:subject>Skulptur</dc:subject>
+    
+    
+      <dc:subject>Bronze</dc:subject>
+    
+    
+      <dc:subject>Zeitgenössische Kunst</dc:subject>
+    
+    
+      <dc:subject>Bildhauer</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-10-15T14:24:42Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/schiess-gustav-adrian-tobias-tobias">
+    <title>(Schiess G. A. T.) Tobias</title>
+    <link>http://www.rwma.ch/kunstwerke/schiess-gustav-adrian-tobias-tobias</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Zürichsee</dc:subject>
+    
+    
+      <dc:subject>Zürich</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-10-13T15:25:00Z</dc:date>
+    <dc:type>Künstler</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/helen-dahm/ohne-titel-gefangener-vogel-und-betrachterin">
+    <title>ohne Titel (Gefangener Vogel und Betrachterin)</title>
+    <link>http://www.rwma.ch/kunstwerke/helen-dahm/ohne-titel-gefangener-vogel-und-betrachterin</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Figuration</dc:subject>
+    
+    
+      <dc:subject>Graphik</dc:subject>
+    
+    
+      <dc:subject>Zürich</dc:subject>
+    
+    
+      <dc:subject>Vogel</dc:subject>
+    
+    
+      <dc:subject>Mensch</dc:subject>
+    
+    
+      <dc:subject>Lithographie</dc:subject>
+    
+    
+      <dc:subject>Blumen</dc:subject>
+    
+    
+      <dc:subject>Thurgau</dc:subject>
+    
+    
+      <dc:subject>Zürichsee</dc:subject>
+    
+    
+      <dc:subject>Frau</dc:subject>
+    
+    
+      <dc:subject>Tier</dc:subject>
+    
+    
+      <dc:subject>Ostschweiz</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-09-28T08:50:00Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+
+
+</rdf:RDF>

@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+
+
+
+
+    
+
+
+
+<channel rdf:about="http://www.rwma.ch/search_rss">
+  <title>WELTI modern art</title>
+  <link>http://www.rwma.ch</link>
+
+  <description>
+    
+            These are the search results for the query, showing results 1 to 6.
+        
+  </description>
+
+  
+
+  
+
+  <image rdf:resource="http://www.rwma.ch/logo.png"/>
+
+  <items>
+    <rdf:Seq>
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/niklaus-stoecklin/metzgerngasse-bern"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/niklaus-stoecklin/regenbogen-300-x-100."/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/eduard-gubler/am-luganersee"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/niklaus-stoecklin"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/eduard-gubler/madchenkopf-mit-roschen-im-haar"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/eduard-gubler"/>
+      
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/niklaus-stoecklin/metzgerngasse-bern">
+    <title>Metzgerngasse Bern</title>
+    <link>http://www.rwma.ch/kunstwerke/niklaus-stoecklin/metzgerngasse-bern</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Tusche</dc:subject>
+    
+    
+      <dc:subject>Basel</dc:subject>
+    
+    
+      <dc:subject>Neue Sachlichkeit</dc:subject>
+    
+    
+      <dc:subject>Zeichnung</dc:subject>
+    
+    
+      <dc:subject>Stadt</dc:subject>
+    
+    
+      <dc:subject>Strasse</dc:subject>
+    
+    
+      <dc:subject>Bern</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-10-19T16:09:29Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/niklaus-stoecklin/regenbogen-300-x-100.">
+    <title>Regenbogen (300 x 100.)</title>
+    <link>http://www.rwma.ch/kunstwerke/niklaus-stoecklin/regenbogen-300-x-100.</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Basel</dc:subject>
+    
+    
+      <dc:subject>Neue Sachlichkeit</dc:subject>
+    
+    
+      <dc:subject>Zeichnung</dc:subject>
+    
+    
+      <dc:subject>Regenbogen</dc:subject>
+    
+    
+      <dc:subject>Aquarell</dc:subject>
+    
+    
+      <dc:subject>Regen</dc:subject>
+    
+    
+      <dc:subject>Landschaft</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-10-19T16:07:48Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/eduard-gubler/am-luganersee">
+    <title>Am Luganersee</title>
+    <link>http://www.rwma.ch/kunstwerke/eduard-gubler/am-luganersee</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Tessin</dc:subject>
+    
+    
+      <dc:subject>Lugano</dc:subject>
+    
+    
+      <dc:subject>Zürich</dc:subject>
+    
+    
+      <dc:subject>Graphik</dc:subject>
+    
+    
+      <dc:subject>Neue Sachlichkeit</dc:subject>
+    
+    
+      <dc:subject>Uri</dc:subject>
+    
+    
+      <dc:subject>Haus</dc:subject>
+    
+    
+      <dc:subject>Kupferstich</dc:subject>
+    
+    
+      <dc:subject>Landschaft</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-10-18T17:18:28Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/niklaus-stoecklin">
+    <title>Niklaus Stoecklin</title>
+    <link>http://www.rwma.ch/kunstwerke/niklaus-stoecklin</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Neue Sachlichkeit</dc:subject>
+    
+    
+      <dc:subject>Basel</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-10-13T15:16:10Z</dc:date>
+    <dc:type>Künstler</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/eduard-gubler/madchenkopf-mit-roschen-im-haar">
+    <title>Mädchenkopf (mit Röschen im Haar)</title>
+    <link>http://www.rwma.ch/kunstwerke/eduard-gubler/madchenkopf-mit-roschen-im-haar</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Figuration</dc:subject>
+    
+    
+      <dc:subject>Neue Sachlichkeit</dc:subject>
+    
+    
+      <dc:subject>Uri</dc:subject>
+    
+    
+      <dc:subject>Frau</dc:subject>
+    
+    
+      <dc:subject>Gemälde</dc:subject>
+    
+    
+      <dc:subject>Portrait</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-09-28T10:05:00Z</dc:date>
+    <dc:type>Kunstwerk</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/eduard-gubler">
+    <title>Eduard Gubler</title>
+    <link>http://www.rwma.ch/kunstwerke/eduard-gubler</link>
+    <description>Bruder von Max und Ernst Gubler.</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Zürich</dc:subject>
+    
+    
+      <dc:subject>Neue Sachlichkeit</dc:subject>
+    
+    
+      <dc:subject>Uri</dc:subject>
+    
+    
+      <dc:subject>Expressionismus</dc:subject>
+    
+    
+      <dc:subject>Schweizer Expressionismus</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-09-28T09:00:00Z</dc:date>
+    <dc:type>Künstler</dc:type>
+  </item>
+
+
+
+
+</rdf:RDF>

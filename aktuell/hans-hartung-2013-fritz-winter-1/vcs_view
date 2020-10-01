@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+PRODID:-//AT Content Types//AT Event//EN
+VERSION:1.0
+BEGIN:VEVENT
+DTSTART:20180113T130000Z
+DTEND:20180421T160000Z
+DCREATED:20200422T124540Z
+UID:ATEvent-eb627d094e9d5c6910f3474e77119fa5
+SEQUENCE:0
+LAST-MODIFIED:20200422T125141Z
+SUMMARY:Hans Hartung – Fritz Winter
+DESCRIPTION:Amiet Cuno - Arp Hans - Bargheer Eduard - Barlach Ernst - 
+ Carigiet Alois - Chagall Marc - Delaunay Sonia - Dietrich Adolf - Glei
+ zes Albert -  Herbin Jean - Hinterreiter Hans - Hodler Ferdinand - Itt
+ en Johannes - Kubin Alfred - Macke August - Marc Franz - Nebel Otto - 
+ Reichel Hans - Schawinsky Xanti - Schlemmer Oskar - Van Dongen Kees - 
+ Varlin (Willy Guggenheim) - Zadkine Ossip
+PRIORITY:3
+TRANSP:0
+END:VEVENT
+END:VCALENDAR

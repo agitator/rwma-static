@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+
+
+
+
+    
+
+
+
+<channel rdf:about="http://www.rwma.ch/kunstwerke/schweizer-kunst/RSS">
+  <title>Schweizer Kunst</title>
+  <link>http://www.rwma.ch</link>
+
+  <description>
+    
+      
+    
+  </description>
+
+  
+
+  
+            <syn:updatePeriod>daily</syn:updatePeriod>
+            <syn:updateFrequency>1</syn:updateFrequency>
+            <syn:updateBase>2010-03-01T13:16:14Z</syn:updateBase>
+        
+
+  <image rdf:resource="http://www.rwma.ch/logo.png"/>
+
+  <items>
+    <rdf:Seq>
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/cuno-amiet"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/alice-bailly"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/maurice-barraud"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/raffael-benazzi"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/silvio-blatter"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/alfred-bleuler"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/walter-bockhorn"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/franz-brulhart"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/samuel-buri"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/jean-baptiste-arthur-calame"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/mario-comensoli"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/louis-conne"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/martha-cunz"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/helen-dahm"/>
+      
+      
+        <rdf:li rdf:resource="http://www.rwma.ch/kunstwerke/maurice-ducret"/>
+      
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/cuno-amiet">
+    <title>Cuno Amiet</title>
+    <link>http://www.rwma.ch/kunstwerke/cuno-amiet</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Bern</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-09-30T18:40:00Z</dc:date>
+    <dc:type>Künstler</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/alice-bailly">
+    <title>Alice Bailly</title>
+    <link>http://www.rwma.ch/kunstwerke/alice-bailly</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Lausanne</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    
+      <dc:subject>Waad</dc:subject>
+    
+    <dc:date>2010-10-01T17:04:40Z</dc:date>
+    <dc:type>Künstler</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/maurice-barraud">
+    <title>Maurice Barraud</title>
+    <link>http://www.rwma.ch/kunstwerke/maurice-barraud</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-09-30T18:58:50Z</dc:date>
+    <dc:type>Künstler</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/raffael-benazzi">
+    <title>Raffael Benazzi</title>
+    <link>http://www.rwma.ch/kunstwerke/raffael-benazzi</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Holz</dc:subject>
+    
+    
+      <dc:subject>Skulptur</dc:subject>
+    
+    
+      <dc:subject>Bronze</dc:subject>
+    
+    
+      <dc:subject>Bildhauer</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-09-30T19:03:17Z</dc:date>
+    <dc:type>Künstler</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/silvio-blatter">
+    <title>Silvio Blatter</title>
+    <link>http://www.rwma.ch/kunstwerke/silvio-blatter</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Maler</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-09-30T19:06:53Z</dc:date>
+    <dc:type>Künstler</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/alfred-bleuler">
+    <title>Alfred Bleuler</title>
+    <link>http://www.rwma.ch/kunstwerke/alfred-bleuler</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-09-30T19:08:52Z</dc:date>
+    <dc:type>Künstler</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/walter-bockhorn">
+    <title>Walter Bockhorn</title>
+    <link>http://www.rwma.ch/kunstwerke/walter-bockhorn</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Maler</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-09-30T19:11:53Z</dc:date>
+    <dc:type>Künstler</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/franz-brulhart">
+    <title>Franz Brülhart</title>
+    <link>http://www.rwma.ch/kunstwerke/franz-brulhart</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Freibourg</dc:subject>
+    
+    
+      <dc:subject>Malerei</dc:subject>
+    
+    
+      <dc:subject>Portrait</dc:subject>
+    
+    
+      <dc:subject>Bern</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-11-08T13:30:00Z</dc:date>
+    <dc:type>Künstler</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/samuel-buri">
+    <title>Samuel Buri</title>
+    <link>http://www.rwma.ch/kunstwerke/samuel-buri</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Figuration</dc:subject>
+    
+    
+      <dc:subject>Paris</dc:subject>
+    
+    
+      <dc:subject>Maler</dc:subject>
+    
+    
+      <dc:subject>Blumen</dc:subject>
+    
+    
+      <dc:subject>Basel</dc:subject>
+    
+    
+      <dc:subject>Bern</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-09-30T19:14:33Z</dc:date>
+    <dc:type>Künstler</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/jean-baptiste-arthur-calame">
+    <title>Jean Baptiste Arthur Calame</title>
+    <link>http://www.rwma.ch/kunstwerke/jean-baptiste-arthur-calame</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-09-30T19:20:00Z</dc:date>
+    <dc:type>Künstler</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/mario-comensoli">
+    <title>Mario Comensoli</title>
+    <link>http://www.rwma.ch/kunstwerke/mario-comensoli</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Figuration</dc:subject>
+    
+    
+      <dc:subject>Tessin</dc:subject>
+    
+    
+      <dc:subject>Zürich</dc:subject>
+    
+    
+      <dc:subject>Maler</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-09-30T19:30:00Z</dc:date>
+    <dc:type>Künstler</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/louis-conne">
+    <title>Louis Conne</title>
+    <link>http://www.rwma.ch/kunstwerke/louis-conne</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Bildhauer</dc:subject>
+    
+    
+      <dc:subject>Zürich</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-09-30T19:28:18Z</dc:date>
+    <dc:type>Künstler</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/martha-cunz">
+    <title>Martha Cunz</title>
+    <link>http://www.rwma.ch/kunstwerke/martha-cunz</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>St. Gallen</dc:subject>
+    
+    
+      <dc:subject>Graphik</dc:subject>
+    
+    
+      <dc:subject>Holzschnitt</dc:subject>
+    
+    
+      <dc:subject>Ostschweiz</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-09-30T19:30:00Z</dc:date>
+    <dc:type>Künstler</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/helen-dahm">
+    <title>Helen Dahm</title>
+    <link>http://www.rwma.ch/kunstwerke/helen-dahm</link>
+    <description>Eine der bedeutendsten Künstlerinnen der Schweiz des 20. Jahrhunderts. Im Frühwerk Anklänge an den Jugendstil und Symbolismus. Schon früh kommt sie mit dem Deutschen Expressionismus in Berührung und lernt in München auch Gabriele Münter und Wassily Kandinsky kennen. Das expressionistische Element bleibt vortan ihre Domaine. </description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Zürich</dc:subject>
+    
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-03-01T17:00:00Z</dc:date>
+    <dc:type>Künstler</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.rwma.ch/kunstwerke/maurice-ducret">
+    <title>Maurice Ducret</title>
+    <link>http://www.rwma.ch/kunstwerke/maurice-ducret</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Rolf Welti</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Schweizer Kunst</dc:subject>
+    
+    <dc:date>2010-09-30T19:33:29Z</dc:date>
+    <dc:type>Künstler</dc:type>
+  </item>
+
+
+
+
+
+</rdf:RDF>

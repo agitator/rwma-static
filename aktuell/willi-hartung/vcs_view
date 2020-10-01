@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+PRODID:-//AT Content Types//AT Event//EN
+VERSION:1.0
+BEGIN:VEVENT
+DTSTART:20181124T160000Z
+DTEND:20190316T170000Z
+DCREATED:20200422T130345Z
+UID:ATEvent-d96d23f2dcec17b24934b089211e2dc7
+SEQUENCE:0
+LAST-MODIFIED:20200422T130349Z
+SUMMARY:Willi Hartung
+DESCRIPTION:Hans Aeschbacher - Martha Cunz - Helen Dahm - Henrich Dani
+ oth - Adolf Dietrich - Franz Gertsch - Eduard Gubler - Max Gubler - Pi
+ erre Haubensak - Max von Moos - Wilfrid Moser - Matias Spescha - Nikla
+ us Stoecklin - André Thomkins - Otto Tschumi - Oscar Wiggli
+PRIORITY:3
+TRANSP:0
+END:VEVENT
+END:VCALENDAR

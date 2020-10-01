@@ -1,0 +1,371 @@
+
+/* - ++resource++Products.RWMATheme.stylesheets/main.css - */
+@media screen {
+/* http://www.rwma.ch/portal_css/++resource++Products.RWMATheme.stylesheets/main.css?original=1 */
+/* */
+body {
+background-image: url(../../++resource++Products.RWMATheme.images/roomd.jpg);
+background-position: center top;
+background-repeat: no-repeat;
+background-attachment:fixed;
+}
+#visual-portal-wrapper {
+width: 960px;
+margin: 0 auto;
+}
+.discreet {
+color: #666;
+font-size: 85%;
+font-weight: normal;
+}
+#collage .discreet {
+padding-right: 20%;
+font-size: 100%;
+}
+#edit-bar {
+font-size: 70%;
+}
+.portletSearch {
+text-align: right;
+}
+.portletSearch .portletHeader {
+display: none;
+}
+.portletSearch .searchButton {
+display: block;
+float: right;
+margin-top: 0.25em
+}
+.portletSearch .portletFooter {
+display: none;
+}
+.portletSearch .portlet-search-gadget {
+display: block;
+float: right;
+clear: both;
+}
+.portletNavigationTree {
+margin-top: 80px!important;
+}
+.navTreeLevel0 .section-kunstwerke {
+margin-bottom: 2em;
+}
+.navTreeLevel0 .section-kontakt {
+margin-bottom: 2em;
+}
+.navTreeLevel0 .section-kunstwerke .contenttype-document {
+display: none;
+}
+.documentContent {
+padding: 40px 0 0 40px;
+}
+.documentContent p.tileBody {
+margin-bottom:0;
+}
+dl.portlet a:hover {
+color:#333!important;
+}
+dl.portlet ul.navTree .navTreeCurrentItem {
+color:#333!important;
+}
+dl.portlet ul.navTreeLevel0 > .navTreeItem {
+border-bottom:medium none;
+line-height:1.15em;
+padding:0.15em 1em;
+}
+dl.portlet ul.navTreeLevel0 > .navTreeItem img {
+display: none;
+}
+dl.portlet ul.navTreeLevel0 > .navTreeItem a {
+color: #75ad0b;
+text-align: right;
+font-weight: bold;
+}
+dl.portlet ul.navTreeLevel1 > .navTreeItem a {
+color: #75ad0b;
+text-align: right;
+font-weight: normal;
+line-height: 1.25em;
+}
+dl.image-left {
+clear: none!important;
+float: left;
+margin: 0.5em 1em 0.5em 0;
+}
+.eventDetails {
+float: right;
+margin-left: 2em;
+background: #eee;
+padding: 1em 1em 0.5em 1em;
+}
+.eventDetails .vertical.listing {
+margin-bottom: 0;
+text-align: left!important;
+}
+table.listing td, table.listing th {
+vertical-align:top;
+padding: 0 0 0.5em 0;
+width: 88px;
+white-space: normal;
+}
+.eventDetails table.listing tbody th {
+font-weight:bold;
+padding-right: 0.5em;
+text-align: left!important;
+}
+.eventDetails table.listing tbody td {
+white-space:nowrap;
+text-align: left!important;
+}
+.vsEventDetails table.listing tbody th {
+font-weight:bold;
+padding-right: 0.5em;
+text-align: left!important;
+}
+.vsEventDetails table.listing tbody td {
+white-space:nowrap;
+text-align: left!important;
+}
+div.portalMessage.info {
+margin-bottom: 0.5em;
+}
+#portal-signature {
+font-size: 70%;
+position: absolute;
+bottom: 0;
+right: 0;
+width: 100%;
+text-align: right;
+}
+#portal-signature li {
+padding:0 0.75em;
+}
+#portal-signature a {
+}
+#viewlet-below-content #category {
+display: none!important;
+}
+/* */
+#pfg-fieldwrapper {
+}
+#pfg-fieldwrapper .field {
+clear: none;
+float:left;
+margin-top: 0em;
+margin-right: 1em;
+margin-bottom: 1em;
+}
+#archetypes-fieldname-angaben,
+#archetypes-fieldname-kunstlername,
+#archetypes-fieldname-objektart,
+#archetypes-fieldname-masse,
+#archetypes-fieldname-zustand,
+#archetypes-fieldname-werkverzeichnis,
+#archetypes-fieldname-provenienz,
+#archetypes-fieldname-vorname,
+#archetypes-fieldname-firma,
+#archetypes-fieldname-strasse,
+#archetypes-fieldname-ort,
+#archetypes-fieldname-land,
+#archetypes-fieldname-fax,
+#archetypes-fieldname-comments,
+#archetypes-fieldname-ich-interessiere-mich-fur,
+#archetypes-fieldname-kunstler,
+#archetypes-fieldname-stile,
+#archetypes-fieldname-themen,
+#archetypes-fieldname-kommentar {
+clear:none!important;
+float:none!important;
+}
+
+}
+
+
+/* - ++resource++Products.RWMATheme.stylesheets/rwmatypes.css - */
+@media screen {
+/* http://www.rwma.ch/portal_css/++resource++Products.RWMATheme.stylesheets/rwmatypes.css?original=1 */
+/* */
+.artistEntry {
+float: left;
+width: 123px;
+margin-bottom: 12px;
+margin-right: 12px;
+text-align: left;
+height: 123px;
+background: transparent;
+}
+.artistEntry.threeCol {
+width: 215px;
+}
+.artistEntry.threeCol .artistEntryTitle,
+.artistEntry.threeCol .photoAlbumEntryTitle {
+display: block;
+float: right;
+width:88px;
+word-wrap:break-word;
+}
+.artistEntry img {
+height: 123px;
+width: 123px;
+}
+.artistEntryWrapper {
+}
+.artistEntry a {
+text-decoration: none;
+border: none!important;
+}
+.artistFolder {
+}
+.template-atct_album_info_view .artistEntryTitle {
+line-height: 1.25em;
+}
+.artistContentWrapper .listingBar {
+margin: 0 26px -10px -4px;
+}
+.template-folder_title_view .listingBar {
+display: none;
+}
+.template-folder_title_view .listColumns .listingBar {
+display: block;
+margin: 13px 26px 0 -4px;
+}
+.template-artist_view .artistContentWrapper {
+background: #eee;
+padding: 26px 0 13px 26px;
+text-align:left;
+height: 0.1%;
+}
+.template-artwork_view .artworkContentWrapper {
+background: #eee;
+padding: 26px 0 13px 26px;
+text-align:left;
+height: 0.1%;
+}
+.artworkDescription {
+float: right;
+padding-right: 13px;
+width: 210px;
+}
+.artworkDescription h4 {
+margin-top: 0;
+margin-bottom: 0.5em;
+line-height: 100%;
+}
+.artworkDescription dd {
+margin: 0;
+}
+.artworkDescription ul {
+margin-left: 0;
+margin-bottom: 0.5em;
+}
+.artworkDescription li {
+list-style: none;
+margin-bottom: 0;
+line-height: 1.25em;
+}
+.artworkDescription ul ul li {
+list-style:disc inside none;
+margin-left:0.25em;
+}
+.artworkPicture {}
+.artworkPlaceholder a {
+background: #DDDDDD;
+display: block;
+font-size: 200%;
+padding: 130px 0 150px 0;
+text-align: center;
+width: 450px;
+}
+.artistPlaceholder {
+background: #DDDDDD;
+display: block;
+font-size: 100%;
+padding: 40px 0;
+text-align: center;
+}
+.template-atct_album_info_view .artistPlaceholder {
+width: 123px;
+float: left;
+}
+.artworkNav {
+float: right;
+margin-right: 2em;
+margin-top: -1.5em;
+}
+.artistListingBar {
+float: right;
+white-space: nowrap;
+}
+.template-atct_album_view .artistContentWrapper,
+.template-atct_album_info_view .artistContentWrapper {
+background: #eee;
+padding: 26px 0 13px 26px;
+text-align:left;
+height: 0.1%;
+}
+.template-folder_title_view .listColumns {
+background: #eee;
+padding: 26px 0 13px 26px;
+text-align:left;
+height: 0.1%;
+}
+.template-folder_title_view .listColumns .column {
+float: left;
+margin-right: 1em;
+width: 212px;
+}
+.template-folder_title_view .listColumns .column h2 {
+font-size: 130%;
+letter-spacing: 0;
+margin-top: 0;
+}
+.template-atct_album_view .artistContentWrapper div.listingBar,
+.template-atct_album_info_view .artistContentWrapper div.listingBar {
+margin-right: 26px;
+margin-top: 0;
+margin-bottom: 0;
+}
+.template-atct_album_view .artistContentWrapper div.listingBar .next,
+.template-atct_album_info_view .artistContentWrapper div.listingBar .next,
+.template-artist_view .artistContentWrapper div.listingBar .next,
+.template-folder_title_view .listColumns div.listingBar .next {
+position:absolute;
+right:26px;
+}
+.template-atct_album_view .artistContentWrapper div.listingBar .previous,
+.template-atct_album_info_view .artistContentWrapper div.listingBar .previous,
+.template-artist_view .artistContentWrapper div.listingBar .previous,
+.template-folder_title_view .listColumns div.listingBar .previous {
+position:absolute;
+left:60px;
+}
+.template-artist_view .artistContentWrapper div.listingBar {
+margin-bottom: 0.25em;
+}
+.template-folder_summary_view .tileItem {
+min-height: 9em!important;
+}
+.vsEventDetails {
+margin-top: 2.5em;
+margin-bottom: 1.5em;
+}
+table.vsdetails {
+width: auto!important;
+}
+table.vsdetails th {
+width: auto!important;
+padding: 0 0.5em 0 0;
+}
+table.vsdetails td {
+width: auto!important;
+padding: 0;
+}
+#vs-supplementary-events h5 {
+font-size: 1.1em;
+}
+#vs-supplementary-events dd {
+margin: 0;
+}
+
+}
+

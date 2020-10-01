@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+PRODID:-//AT Content Types//AT Event//EN
+VERSION:1.0
+BEGIN:VEVENT
+DTSTART:20190713T150000Z
+DTEND:20190921T160000Z
+DCREATED:20200422T130904Z
+UID:ATEvent-8cd4cfe1c125016181a747aa1dd07e0f
+SEQUENCE:0
+LAST-MODIFIED:20200422T131415Z
+SUMMARY:Jean Dubuffet  - Maurice Estève - Nicolas de Staël  - Pierre Soulages - Pierre Tal-Coat
+DESCRIPTION:Walter Helbig - Ferdinand Hodler - Rolf Iseli - Johannes R
+ obert Schürch - Matias Spescha - André Thomkins - Not Vital - Karl J
+ akob Wegmann
+PRIORITY:3
+TRANSP:0
+END:VEVENT
+END:VCALENDAR

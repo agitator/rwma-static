@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+PRODID:-//AT Content Types//AT Event//EN
+VERSION:1.0
+BEGIN:VEVENT
+DTSTART:20160820T150000Z
+DTEND:20161217T170000Z
+DCREATED:20200421T131320Z
+UID:ATEvent-76960c2476e6c44f02697d59c40055d4
+SEQUENCE:0
+LAST-MODIFIED:20200421T132717Z
+SUMMARY:Eduard Gubler - Max Gubler
+DESCRIPTION:Alice Bailly - Maurice Barraud - Martha Cunz - Heinrich Da
+ nioth - Adolf Dietrich - Franz Gertsch - Pierre Haubensak - Ferdinand 
+ Hodler - Rolf Iseli - Carl Liner - Varlin - Not Vital
+PRIORITY:3
+TRANSP:0
+END:VEVENT
+END:VCALENDAR
